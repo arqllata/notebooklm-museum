@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5",
+    "title": "Art Deco: The Roaring Twenties",
+    "description": "Geometric patterns, bold colors, and the celebration of machinery. The style that defined the jazz age skyscrapers.",
+    "category": "Design",
+    "imageUrl": "https://images.unsplash.com/photo-1580259837775-81676ed8ea52?q=80&w=1000&auto=format&fit=crop",
+    "audioUrl": "#"
+  },
+  {
+    "id": "1770700589597",
+    "title": "FUTURISMO ITALIANO",
+    "description": "Futurismo, la estética de la máquina y la velocidad",
+    "category": "Design",
+    "imageUrl": "/uploads/images/1770700589536-futurismo.PNG",
+    "audioUrl": "/uploads/audio/1770702274208-VARGAS-DE-LA-LLATA.-Francisco-NotebookLM.-Quemar-Museos-para-Vivir-en-Maquinas.mp3"
+  },
+  {
+    "id": "1770704160232",
+    "title": "BAUHAUS",
+    "description": "ESTE PODCAS ANALIZA PROFUNDAMENTE LOS ORIGENES, SUS ACTORES, SU FILOSOFIA Y SU METODO DE ENSEÑANZA, LA INFLUENCIA EN SU MOMENTO Y LA INFLUENCIA EN NUESTROS DIAS",
+    "category": "Design",
+    "imageUrl": "/uploads/images/1770704193736-bauhaus.PNG",
+    "audioUrl": "/uploads/audio/1770704160174-VARGAS-DE-LA-LLATA-Francisco-NotebookLM.-La-Bauhaus-y-la-Revolucion-del-Diseno-Moderno.mp3"
+  }
+]

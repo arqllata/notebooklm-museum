@@ -1,0 +1,108 @@
+import React from 'react';
+import { notFound } from 'next/navigation';
+import Link from 'next/link';
+import { ArrowLeft, Clock, Calendar } from 'lucide-react';
+import MuseumLayout from '@/components/Layout/MuseumLayout';
+import AudioPlayer from '@/components/Player/AudioPlayer';
+import { promises as fs } from 'fs';
+import path from 'path';
+
+// Force dynamic rendering to ensure we always get the latest JSON data
+export const dynamic = 'force-dynamic';
+
+interface PageProps {
+    params: Promise<{ id: string }>;
+}
+
+async function getPodcast(id: string) {
+    const filePath = path.join(process.cwd(), 'data/podcasts.json');
+    const fileContent = await fs.readFile(filePath, 'utf-8');
+    const podcasts = JSON.parse(fileContent);
+    return podcasts.find((p: any) => p.id === id);
+}
+
+export default async function PodcastPage({ params }: PageProps) {
+    const { id } = await params;
+    const podcast = await getPodcast(id);
+
+    if (!podcast) {
+        notFound();
+    }
+
+    return (
+        <MuseumLayout>
+            {/* Animations removed from Server Component wrapper - can be re-added via a Client Component wrapper if needed, 
+                 but for checking data fixes, standard rendering is safer/faster. 
+                 Keeping it simple for "Museum Quality" static feel. */}
+            <div className="max-w-4xl mx-auto">
+                <Link href="/" className="inline-flex items-center text-museum-gold hover:text-white transition-colors mb-8 group">
+                    <ArrowLeft size={20} className="mr-2 group-hover:-translate-x-1 transition-transform" />
+                    Volver a la Galería
+                </Link>
+
+                <div className="grid md:grid-cols-[300px_1fr] gap-8 mb-12">
+                    {/* Cover Art */}
+                    <div className="aspect-square rounded-lg overflow-hidden border border-white/10 shadow-2xl relative">
+                        {podcast.imageUrl ? (
+                            <img src={podcast.imageUrl} alt={podcast.title} className="w-full h-full object-cover" />
+                        ) : (
+                            <div className="w-full h-full bg-gray-800 flex items-center justify-center">
+                                <span className="text-gray-500 italic">Sin Portada</span>
+                            </div>
+                        )}
+                    </div>
+
+                    {/* Header Info */}
+                    <div className="flex flex-col justify-center">
+                        <div>
+                            <div className="flex items-center gap-2 mb-4">
+                                <span className="px-3 py-1 bg-museum-gold/20 text-museum-gold text-xs font-bold uppercase tracking-widest rounded-full border border-museum-gold/30">
+                                    {podcast.category}
+                                </span>
+                            </div>
+
+                            <h1 className="text-4xl md:text-5xl font-serif font-bold text-museum-text mb-6 leading-tight">
+                                {podcast.title}
+                            </h1>
+
+                            <div className="flex items-center gap-6 text-sm text-gray-400 font-mono mb-8">
+                                <div className="flex items-center gap-2">
+                                    <Clock size={16} />
+                                    <span>15 min</span> {/* Placeholder */}
+                                </div>
+                                <div className="flex items-center gap-2">
+                                    <Calendar size={16} />
+                                    <span>2024</span> {/* Placeholder */}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                {/* Player Section */}
+                <div className="mb-12">
+                    <AudioPlayer src={podcast.audioUrl} title={podcast.title} />
+                </div>
+
+                {/* Description & Notes */}
+                <div className="prose prose-invert prose-lg max-w-none">
+                    <h2 className="font-serif text-3xl text-museum-text mb-6">Sobre este episodio</h2>
+                    <p className="text-gray-300 leading-relaxed mb-6 whitespace-pre-wrap">
+                        {podcast.description}
+                    </p>
+                    <p className="text-gray-300 leading-relaxed">
+                        Este episodio fue generado por NotebookLM, analizando textos clave para proveer una síntesis educativa. Explora los matices del tema con profundidad y claridad, curado por Francisco.
+                    </p>
+
+                    <h3 className="font-serif text-2xl text-museum-text mt-12 mb-4">Temas Clave</h3>
+                    <ul className="list-disc pl-5 space-y-2 text-gray-300">
+                        <li>Contexto Histórico y Significado</li>
+                        <li>Figuras Clave y Obras Maestras</li>
+                        <li>Innovaciones Técnicas</li>
+                        <li>Legado Duradero</li>
+                    </ul>
+                </div>
+            </div>
+        </MuseumLayout>
+    );
+}

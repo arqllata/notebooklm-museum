@@ -4,21 +4,27 @@ import Link from 'next/link';
 import { ArrowLeft, Clock, Calendar } from 'lucide-react';
 import MuseumLayout from '@/components/Layout/MuseumLayout';
 import AudioPlayer from '@/components/Player/AudioPlayer';
-import { promises as fs } from 'fs';
+import { getPodcast, getPodcasts } from '@/components/lib/podcasts';
 import path from 'path';
+import PhotoGallery from '@/components/Podcast/PhotoGallery';
+import KeyTakeaways from '@/components/Podcast/KeyTakeaways';
+import TriviaQuiz from '@/components/Podcast/TriviaQuiz';
+import InfographicViewer from '@/components/Podcast/InfographicViewer';
+import CuratorChat from '@/components/Podcast/CuratorChat';
 
 // Force dynamic rendering to ensure we always get the latest JSON data
-export const dynamic = 'force-dynamic';
+// export const dynamic = 'force-dynamic';
 
 interface PageProps {
     params: Promise<{ id: string }>;
 }
 
-async function getPodcast(id: string) {
-    const filePath = path.join(process.cwd(), 'data/podcasts.json');
-    const fileContent = await fs.readFile(filePath, 'utf-8');
-    const podcasts = JSON.parse(fileContent);
-    return podcasts.find((p: any) => p.id === id);
+export async function generateStaticParams() {
+    const podcasts = await getPodcasts();
+
+    return podcasts.map((podcast: any) => ({
+        id: podcast.id,
+    }));
 }
 
 export default async function PodcastPage({ params }: PageProps) {
@@ -94,15 +100,23 @@ export default async function PodcastPage({ params }: PageProps) {
                         Este episodio fue generado por NotebookLM, analizando textos clave para proveer una síntesis educativa. Explora los matices del tema con profundidad y claridad, curado por Francisco.
                     </p>
 
-                    <h3 className="font-serif text-2xl text-museum-text mt-12 mb-4">Temas Clave</h3>
-                    <ul className="list-disc pl-5 space-y-2 text-gray-300">
-                        <li>Contexto Histórico y Significado</li>
-                        <li>Figuras Clave y Obras Maestras</li>
-                        <li>Innovaciones Técnicas</li>
-                        <li>Legado Duradero</li>
-                    </ul>
+                    {/* Puntos Clave */}
+                    <KeyTakeaways points={podcast.takeaways} />
+
+                    {/* Galería de Fotos */}
+                    <PhotoGallery images={podcast.gallery} />
+
+                    {/* Infografía */}
+                    <InfographicViewer imageUrl={podcast.infographicUrl} />
+
+                    {/* Chat del Curador (IA) */}
+                    <CuratorChat items={podcast.faq} />
+
+                    {/* Trivia Interactiva */}
+                    <TriviaQuiz questions={podcast.quiz} />
                 </div>
             </div>
-        </MuseumLayout>
+
+        </MuseumLayout >
     );
 }

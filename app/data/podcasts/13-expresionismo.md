@@ -5,7 +5,7 @@ description: "El grito del alma humana: distorsión, angustia y el color de las
   emociones crudas."
 category: Pre Guerras
 imageUrl: /uploads/img_2392.png
-audioUrl: "#"
+audioUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-del-expresionismo-a-tu-pantalla-táctil.mp3
 takeaways:
   - Movimiento principalmente alemán y austriaco de principios del siglo XX
     (aprox. 1905).
@@ -20,6 +20,7 @@ takeaways:
     (El Puente) y 'Der Blaue Reiter' (El Jinete Azul)."
 gallery:
   - image: https://images.unsplash.com/photo-1543857778-c4a1a3e0b2eb?q=80&w=800
+infographicUrl: /uploads/vargas-de-la-llata-francisco.-impresionismo.png
 faq:
   - question: ¿Cómo influyó el Expresionismo en el cine?
     answer: Fue crucial. Tras la 1ra Guerra Mundial, los estudios de cine alemanes

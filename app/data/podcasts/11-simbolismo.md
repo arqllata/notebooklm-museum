@@ -20,6 +20,9 @@ gallery:
   - /uploads/falero-luis-ricardo.-brujas-yendo-al-sabbath.jpg
   - /uploads/munch-edward.-madonna.webp
   - /uploads/moreau-gustave.-la-aparición.jpg
+  - /uploads/pellizza-da-volpedo-guiseppe.-el-sol-naciente.jpg
+  - /uploads/egusquiza-rogelio-de.-tristán-e-isolda.jpg
+  - /uploads/redon-odilon.-la-araña-llorando.png
 infographicUrl: /uploads/vargas-de-la-llata-francisco-notebooklm-simbolismo.png
 faq:
   - question: ¿Por qué el Simbolismo estaba tan obsesionado con los monstruos y lo

@@ -9,7 +9,9 @@ public_folder: "/uploads"
 collections:
   - name: "podcasts"
     label: "Episodios del Podcast"
-    folder: "data/podcasts"
+    folder: "app/data/podcasts"
+    extension: "md"
+    format: "frontmatter"
     create: true
     slug: "{{year}}-{{month}}-{{title}}"
     fields:

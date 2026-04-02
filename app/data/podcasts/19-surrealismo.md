@@ -4,8 +4,8 @@ title: Surrealismo
 description: "El dictado automático de la mente: sueños lúcidos, psicoanálisis y
   el misterio por encima de la vigilia cotidiana."
 category: Entre Guerras
-imageUrl: /uploads/dali-01.jpg
-audioUrl: "#"
+imageUrl: /uploads/portada-surrealismo.jpeg
+audioUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-cien-años-de-rebelión-contra-la-lógica.mp3
 takeaways:
   - Movimiento cultural nacido oficilamente en París tras el Primer Manifiesto
     Surrealista de André Breton en 1924.
@@ -20,7 +20,12 @@ takeaways:
     pictórico soñador, y Luis Buñuel transportó toda esa imaginería poética al
     lenguaje cinematográfico.
 gallery:
-  - image: https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=800
+  - /uploads/ray-man.-ingres´s-violin.-1924.png
+  - /uploads/dali-02.png
+  - /uploads/magrite.jpg
+  - /uploads/khalo-frida.-frida-y-la-cesárea-1931.png
+  - /uploads/savini-alberto.-souvenir-d-enfance-a-athènes.-1930.png
+infographicUrl: /uploads/vargas-de-la-llata-francisco.-surrealismo.png
 faq:
   - question: ¿Por qué el estilo de pintar Dalí es tan hiperrealista tradicional
       (fotorrealismo y perspectiva matemática perfecta) al mismo tiempo que es

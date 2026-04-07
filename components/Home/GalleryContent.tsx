@@ -38,7 +38,7 @@ export default function GalleryContent({ podcasts }: { podcasts: Podcast[] }) {
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 {podcasts.map((podcast, index) => (
                     <motion.div
-                        key={podcast.id}
+                        key={`${podcast.id}-${index}`}
                         initial={{ opacity: 0, y: 30 }}
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ duration: 0.5, delay: index * 0.1 + 0.5 }}

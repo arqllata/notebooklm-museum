@@ -10,8 +10,7 @@ import PhotoGallery from '@/components/Podcast/PhotoGallery';
 import KeyTakeaways from '@/components/Podcast/KeyTakeaways';
 import TriviaQuiz from '@/components/Podcast/TriviaQuiz';
 import InfographicViewer from '@/components/Podcast/InfographicViewer';
-import CuratorChat from '@/components/Podcast/CuratorChat';
-
+import { FileText, Download } from 'lucide-react';
 // Force dynamic rendering to ensure we always get the latest JSON data
 // export const dynamic = 'force-dynamic';
 
@@ -109,8 +108,29 @@ export default async function PodcastPage({ params }: PageProps) {
                     {/* Infografía */}
                     <InfographicViewer imageUrl={podcast.infographicUrl} />
 
-                    {/* Chat del Curador (IA) */}
-                    <CuratorChat items={podcast.faq} />
+                    {/* Apuntes de Clase PDF */}
+                    {podcast.classNotesUrl && (
+                        <div className="mt-12 bg-museum-gold/5 border border-museum-gold/20 rounded-lg p-6 flex flex-col sm:flex-row items-center justify-between gap-6">
+                            <div className="flex items-center gap-4 text-left">
+                                <div className="p-3 bg-museum-gold/10 rounded-full flex-shrink-0">
+                                    <FileText className="text-museum-gold" size={28} />
+                                </div>
+                                <div>
+                                    <h3 className="font-serif text-2xl text-museum-text mb-1 mt-0">Apuntes de la Sesión</h3>
+                                    <p className="text-gray-400 text-sm m-0">Descarga el documento en formato PDF con toda la información clave de este episodio.</p>
+                                </div>
+                            </div>
+                            <a 
+                                href={podcast.classNotesUrl} 
+                                target="_blank" 
+                                rel="noopener noreferrer"
+                                className="inline-flex flex-shrink-0 items-center justify-center gap-2 bg-museum-gold text-black px-6 py-3 rounded-full font-bold hover:bg-white transition-colors no-underline"
+                            >
+                                <Download size={18} />
+                                <span>Descargar PDF</span>
+                            </a>
+                        </div>
+                    )}
 
                     {/* Trivia Interactiva */}
                     <TriviaQuiz questions={podcast.quiz} />

@@ -13,9 +13,10 @@ collections:
     extension: "md"
     format: "frontmatter"
     create: true
-    slug: "{{year}}-{{month}}-{{title}}"
+    slug: "{{slug}}"
     fields:
       - {label: "ID (Automático)", name: "id", widget: "string", default: "UUID"}
+      - {label: "Fecha", name: "date", widget: "datetime"}
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Descripción", name: "description", widget: "text"}
       - {label: "Categoría", name: "category", widget: "string", default: "Design"}
@@ -28,18 +29,15 @@ collections:
       - label: "Galería de Imágenes"
         name: "gallery"
         widget: "list"
-        field: {label: "Imagen", name: "image", widget: "image"}
+        fields: [{label: "Imagen", name: "image", widget: "image"}]
         required: false
       - label: "Infografía (URL)"
         name: "infographicUrl"
         widget: "image"
         required: false
-      - label: "Preguntas Frecuentes (FAQ)"
-        name: "faq"
-        widget: "list"
-        fields:
-          - {label: "Pregunta", name: "question", widget: "string"}
-          - {label: "Respuesta", name: "answer", widget: "text"}
+      - label: "Apuntes de Clase (PDF)"
+        name: "classNotesUrl"
+        widget: "file"
         required: false
       - label: "Trivia (Quiz)"
         name: "quiz"

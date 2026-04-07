@@ -3,8 +3,10 @@
 import React, { useState } from 'react';
 import { X, ZoomIn } from 'lucide-react';
 
+type GalleryImage = string | { image: string };
+
 interface PhotoGalleryProps {
-    images: string[];
+    images: GalleryImage[];
 }
 
 export default function PhotoGallery({ images }: PhotoGalleryProps) {
@@ -14,6 +16,10 @@ export default function PhotoGallery({ images }: PhotoGalleryProps) {
         return null;
     }
 
+    const getImageUrl = (img: GalleryImage) => {
+        return typeof img === 'string' ? img : img?.image;
+    };
+
     return (
         <div className="mt-12 border-t border-white/10 pt-12">
             <h3 className="font-serif text-2xl text-museum-text mb-6 flex items-center gap-3">
@@ -22,22 +28,27 @@ export default function PhotoGallery({ images }: PhotoGalleryProps) {
             </h3>
 
             <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
-                {images.map((img, index) => (
-                    <div
-                        key={index}
-                        className="group relative aspect-square overflow-hidden rounded-lg cursor-pointer bg-black/40 border border-white/5"
-                        onClick={() => setSelectedImage(img)}
-                    >
-                        <img
-                            src={img}
-                            alt={`Galería ${index + 1}`}
-                            className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110 opacity-80 group-hover:opacity-100"
-                        />
-                        <div className="absolute inset-0 bg-black/50 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
-                            <ZoomIn className="text-white/80" size={24} />
+                {images.map((imgItem, index) => {
+                    const imgUrl = getImageUrl(imgItem);
+                    if (!imgUrl) return null;
+                    
+                    return (
+                        <div
+                            key={index}
+                            className="group relative aspect-square overflow-hidden rounded-lg cursor-pointer bg-black/40 border border-white/5"
+                            onClick={() => setSelectedImage(imgUrl)}
+                        >
+                            <img
+                                src={imgUrl}
+                                alt={`Galería ${index + 1}`}
+                                className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110 opacity-80 group-hover:opacity-100"
+                            />
+                            <div className="absolute inset-0 bg-black/50 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
+                                <ZoomIn className="text-white/80" size={24} />
+                            </div>
                         </div>
-                    </div>
-                ))}
+                    );
+                })}
             </div>
 
             {/* Lightbox Modal */}

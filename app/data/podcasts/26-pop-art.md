@@ -5,7 +5,7 @@ description: Sopa Campbell's, Marilyn Monroe y el espejo reflectante e irónico
   del consumismo masivo capitalista triunfante occidental.
 category: Post Guerras
 imageUrl: /uploads/portada-pop-art.png
-audioUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-cuando-el-consumo-se-convirtió-en-arte.mp3
+audioUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-cuando-el-consumo-se-convirtio-en-arte.mp3
 takeaways:
   - Surgió a fines de los 1950s en Reino Unido (el 'Independent Group' de
     Richard Hamilton) pero estalló icónicamente y monumentalmente en la cultura
@@ -33,7 +33,7 @@ gallery:
   - image: /uploads/dieter-rams.jpeg
   - image: /uploads/warhol.jpeg
 infographicUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-pop-art.png
-classNotesUrl: /uploads/unidad-temática-pop-art.pdf
+classNotesUrl: /uploads/unidad-tematica-pop-art.pdf
 quiz:
   - question: ¿Qué famosa técnica de impresión industrial masiva gráfica repetitiva
       -antes relegada sólo al campo estrictamente de publicidad comercial en

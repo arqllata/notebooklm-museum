@@ -4,7 +4,7 @@ title: Simbolismo
 description: El arte de los sueños, los mitos, la noche y los misterios del alma oculta.
 category: Pre Guerras
 imageUrl: /uploads/581c4545-0689-4cfe-ad70-40e2896c6a8a.jpg
-audioUrl: /uploads/vargas-de-la-llata.-francisco-notebooklm.-el-virus-estético-del-simbolismo.mp3
+audioUrl: /uploads/vargas-de-la-llata.-francisco-notebooklm.-el-virus-estetico-del-simbolismo.mp3
 takeaways:
   - Movimiento literario y artístico originado en Francia, Rusia y Bélgica a
     finales del siglo XIX.
@@ -19,10 +19,10 @@ takeaways:
 gallery:
   - /uploads/falero-luis-ricardo.-brujas-yendo-al-sabbath.jpg
   - /uploads/munch-edward.-madonna.webp
-  - /uploads/moreau-gustave.-la-aparición.jpg
+  - /uploads/moreau-gustave.-la-aparicion.jpg
   - /uploads/pellizza-da-volpedo-guiseppe.-el-sol-naciente.jpg
-  - /uploads/egusquiza-rogelio-de.-tristán-e-isolda.jpg
-  - /uploads/redon-odilon.-la-araña-llorando.png
+  - /uploads/egusquiza-rogelio-de.-tristan-e-isolda.jpg
+  - /uploads/redon-odilon.-la-arana-llorando.png
 infographicUrl: /uploads/vargas-de-la-llata-francisco-notebooklm-simbolismo.png
 faq:
   - question: ¿Por qué el Simbolismo estaba tan obsesionado con los monstruos y lo

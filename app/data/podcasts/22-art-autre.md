@@ -5,7 +5,7 @@ description: El arte de la materia, la mancha y la herida existencial de la
   posguerra europea.
 category: Post Guerras
 imageUrl: /uploads/portada-art-autre.png
-audioUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-la-revolución-artística-nacida-de-los-escombros.mp3
+audioUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-la-revolucion-artistica-nacida-de-los-escombros.mp3
 takeaways:
   - Surge en Europa inmediatamente después de la devastación de la Segunda
     Guerra Mundial y el Holocausto (aprox. 1945), como paralelo europeo al
@@ -28,8 +28,8 @@ gallery:
   - image: /uploads/manzoni-piero.-achrome-01.jpg
   - image: /uploads/millares-manolo.-arpillera.jpg
   - image: /uploads/tapies-antoni.-01-.jpg
-infographicUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-guía-visual-del-art-autre.png
-classNotesUrl: /uploads/unidad-temática-art-autre.pdf
+infographicUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-guia-visual-del-art-autre.png
+classNotesUrl: /uploads/unidad-tematica-art-autre.pdf
 quiz:
   - question: ¿Qué acción subversiva realizaba el artista Lucio Fontana (fundador
       del Espacialismo) a sus lienzos pintados en un solo color para crear arte

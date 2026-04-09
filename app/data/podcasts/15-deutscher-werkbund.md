@@ -5,7 +5,7 @@ description: "La antesala de la Bauhaus: la reconciliación pionera entre el
   diseño de calidad, la artesanía y la estandarización industrial masiva."
 category: Pre Guerras
 imageUrl: /uploads/werkbund.png
-audioUrl: /uploads/vargas-de-la-llata.-francisco-notebooklm.-el-werkbund-inventa-el-diseño-moderno.mp3
+audioUrl: /uploads/vargas-de-la-llata.-francisco-notebooklm.-el-werkbund-inventa-el-diseno-moderno.mp3
 takeaways:
   - La 'Asociación Alemana de Artesanos' fue fundada en Munich en 1907 por
     artistas, industriales pioneros y arquitectos.

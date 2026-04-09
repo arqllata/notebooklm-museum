@@ -3,8 +3,8 @@ id: "12"
 title: Nabis
 description: Profetas del color plano, la decoración y el simbolismo místico encubierto.
 category: Pre Guerras
-imageUrl: /uploads/captura-de-pantalla-2026-03-18-a-la-s-7.21.18 p.m..png
-audioUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-los-nabis-profetas-del-diseño-moderno.mp3
+imageUrl: /uploads/captura-de-pantalla-2026-03-18-a-la-s-7.21.18-p.m..png
+audioUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-los-nabis-profetas-del-diseno-moderno.mp3
 takeaways:
   - Los Nabis ('profetas' en hebreo) fueron un grupo secreto de artistas jóvenes
     postimpresionistas formados en París en 1888.

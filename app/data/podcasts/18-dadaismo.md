@@ -5,7 +5,7 @@ description: El anti-arte, la burla, la ironía pura y el triunfo del azar sobre
   la razón burguesa.
 category: ENTRE GUERRAS
 imageUrl: /uploads/portada-dadaismo.png
-audioUrl: /uploads/vargas-de-la-llata-francisco-noteboklm.-dadaísmo-y-el-origen-de-los-memes.mp3
+audioUrl: /uploads/vargas-de-la-llata-francisco-noteboklm.-dadaismo-y-el-origen-de-los-memes.mp3
 takeaways:
   - Surgió en el Cabaret Voltaire, en Zúrich (país neutral Suiza) en 1916,
     fundado por exiliados asqueados por la carnicería absurda de la Primera
@@ -30,7 +30,7 @@ gallery:
   - /uploads/sb-the-spirit-of-our-time-1919-raoul-hausmann.jpg
   - /uploads/eof46ihcrrajbjiuapdtl3zj3y.jpg.webp
   - /uploads/exploring-dadaism-art-in-the-absurd-composition-gallery-109-1737735895-20002_554x488.jpg
-infographicUrl: /uploads/vargas-de-la-llata-francisco-noteboklm.-dadaísmo.png
+infographicUrl: /uploads/vargas-de-la-llata-francisco-noteboklm.-dadaismo.png
 faq:
   - question: ¿Cómo influyó la destrucción dadaísta en el Diseño Gráfico del futuro?
     answer: Muchísimo. Los dadaístas publicaban fanzines, folletos y pancartas

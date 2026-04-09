@@ -7,7 +7,7 @@ description: El nacimiento global omnipresente interactivo veloz inmersivo
   mundo en bits luminosos.
 category: Post Guerras
 imageUrl: /uploads/portada-cad-aid.png
-audioUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-del-grafito-al-diseño-con-ia.mp3
+audioUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-del-grafito-al-diseno-con-ia.mp3
 takeaways:
   - El salto revolucionario inasible de las análogas páginas de papel
     tradicional histórico limitante táctil cerrado al flujo inestable mundial de
@@ -35,8 +35,8 @@ gallery:
   - image: /uploads/kartell-louis-ghost-chair-by-philippe-starck-smoke-grey-9.jpg
   - image: /uploads/neri_oxman_mushtari_anallasa.webp
   - image: /uploads/situ-fabrication-gemini-alpha-neri-oxman-new-york-custom-design-01.jpg
-infographicUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-evolución-de-la-computación-aplicada-al-diseño.png
-classNotesUrl: /uploads/unidad-temática-diseño-asistido-cad.pdf
+infographicUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-evolucion-de-la-computacion-aplicada-al-diseno.png
+classNotesUrl: /uploads/unidad-tematica-diseno-asistido-cad.pdf
 quiz:
   - question: ¿Qué vital área gigantesca fundamental inexplorada profunda y veloz
       abstracta digital de reciente creación diseña y define exactamente cómo

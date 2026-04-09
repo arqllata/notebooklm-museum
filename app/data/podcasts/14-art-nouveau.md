@@ -5,7 +5,7 @@ description: El látigo orgánico y la estilización de la naturaleza en cada
   rincón arquitectónico al final de la Belle Époque.
 category: Pre Guerras
 imageUrl: /uploads/chat-noir.png
-audioUrl: /uploads/03-f-vargas-de-la-llata-francisco-notebooklm-la-identidad-camaleónica-del-art-nouveau.mp3
+audioUrl: /uploads/03-f-vargas-de-la-llata-francisco-notebooklm-la-identidad-camaleonica-del-art-nouveau.mp3
 takeaways:
   - Movimiento internacional de diseño entre 1890 y la Primera Guerra Mundial
     (1914) que buscaba romper con los estilos históricos imitativos del pasado.

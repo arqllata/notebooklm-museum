@@ -31,10 +31,10 @@ gallery:
   - image: https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=800
   - image: /uploads/images-2.jpeg
   - image: /uploads/images-3.jpeg
-  - image: /uploads/zaha-hadid-architects-arquitectura-china-diseño-centro-cultural-04072022.webp
+  - image: /uploads/zaha-hadid-architects-arquitectura-china-diseno-centro-cultural-04072022.webp
   - image: /uploads/images.jpeg
 infographicUrl: /uploads/unknown.jpeg
-classNotesUrl: /uploads/unidad-temática-diseño-asistido-con-ia.pdf
+classNotesUrl: /uploads/unidad-tematica-diseno-asistido-con-ia.pdf
 quiz:
   - question: ¿Qué rol inestable rápido o inquietante radical veloz toma
       inminentemente ahora de repente mundialmente el tradicional artesano y

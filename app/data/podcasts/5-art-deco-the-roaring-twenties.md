@@ -5,7 +5,7 @@ description: Geometric patterns, bold colors, and the celebration of machinery.
   The style that defined the jazz age skyscrapers.
 category: Entre Guerras
 imageUrl: /uploads/img_2350.jpg
-audioUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-la-ambición-futurista-de-rediseñar-el-universo.mp3
+audioUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-la-ambicion-futurista-de-redisenar-el-universo.mp3
 takeaways:
   - El Art Deco surgió como una celebración del progreso tecnológico y la
     modernidad posguerra.
@@ -17,7 +17,7 @@ takeaways:
 gallery:
   - /uploads/lampika-tamara.-mujer.jpg
   - /uploads/lampika-tamara.-adan-y-eva.jpg
-  - /uploads/lampika-tamara.-mujeres-bañandose.jpg
+  - /uploads/lampika-tamara.-mujeres-banandose.jpg
 infographicUrl: /uploads/vargas-de-la-llata-francisco.-art-deco.png
 faq:
   - question: ¿Cuándo y dónde inició el movimiento Art Deco?

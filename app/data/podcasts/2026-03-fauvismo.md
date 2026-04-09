@@ -9,6 +9,6 @@ description: El fauvismo fue la primera vanguardia artística del siglo XX
   impresionismo y el academicismo
 category: ENTRE GUERRAS
 imageUrl: /uploads/vargas-de-la-llata-francisco.-la-danza.jpg
-audioUrl: /uploads/vargas-de-la-llata.-francisco-notebooklm.-la-rebelión-de-las-fieras-del-color.mp3
+audioUrl: /uploads/vargas-de-la-llata.-francisco-notebooklm.-la-rebelion-de-las-fieras-del-color.mp3
 infographicUrl: /uploads/vargas-de-la-llata-francisco.-fauvismo.png
 ---

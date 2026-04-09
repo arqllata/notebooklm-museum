@@ -5,7 +5,7 @@ description: "El grado cero de la pintura: la supremacía espiritual del color y
   la figura abstracta pura flotando sobre el espacio blanco de la nada."
 category: Entre Guerras
 imageUrl: /uploads/gemini-suprematismo-2.png
-audioUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-suprematismo-el-cuadrado-negro-que-reinventó-el-diseño.mp3
+audioUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-suprematismo-el-cuadrado-negro-que-reinvento-el-diseno.mp3
 takeaways:
   - Vanguardia artística profundamente radical surgida en Rusia alrededor del
     agitado año revolucionario de 1915 a manos del pintor Kazimir Malévich y

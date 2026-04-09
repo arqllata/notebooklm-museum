@@ -5,7 +5,7 @@ description: "La fragmentación de la realidad: múltiples perspectivas en un so
   plano pictórico."
 category: Entre Guerras
 imageUrl: /uploads/portada-cubismo.png
-audioUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-el-cubismo-dinamitó-la-perspectiva-tradicional.mp3
+audioUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-el-cubismo-dinamito-la-perspectiva-tradicional.mp3
 takeaways:
   - El movimiento revolucionario creado por Pablo Picasso y Georges Braque en
     París entre 1907 y 1914.
@@ -21,7 +21,7 @@ takeaways:
     aplanamiento del formato visual.
 gallery:
   - image: https://images.unsplash.com/photo-1541888086055-667468132ca5?q=80&w=800
-  - /uploads/cubismo-analítico-muchacha-con-mandolina.jpg
+  - /uploads/cubismo-analitico-muchacha-con-mandolina.jpg
   - /uploads/img_0003.jpg
   - /uploads/cubismo-sintetico.jpg
 infographicUrl: /uploads/vargas-de-la-llata-francisco.-cubismo.png

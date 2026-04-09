@@ -6,7 +6,7 @@ description: La fluidez geométrica colosal extrema incomprensible calculada y
   complejo de la máquina hiper inteligente mundial contemporánea.
 category: Post Guerras
 imageUrl: /uploads/portada.png
-audioUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-diseño-paramétrico-de-gaudí-a-la-ia.mp3
+audioUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-diseno-parametrico-de-gaudi-a-la-ia.mp3
 takeaways:
   - Es el diseño colosal alienígena inmaterial nacido puramente del uso extremo
     inexplorado vanguardista de complejos inasibles matemáticos parámetros
@@ -35,8 +35,8 @@ gallery:
   - image: /uploads/ghery.jpeg
   - image: /uploads/unknown-1.jpeg
   - image: /uploads/silla-z.jpeg
-infographicUrl: /uploads/vargas-de-la-llata-francisco.-diuseño-paramétrico.png
-classNotesUrl: /uploads/unidad-temática-diseño-paramétrico.pdf
+infographicUrl: /uploads/vargas-de-la-llata-francisco.-diuseno-parametrico.png
+classNotesUrl: /uploads/unidad-tematica-diseno-parametrico.pdf
 quiz:
   - question: ¿Qué famosísima genial abrumadora gigante irrepetible arquitecta
       estrella hiper ganadora de premios globales asombrosos Pritzker impulsó

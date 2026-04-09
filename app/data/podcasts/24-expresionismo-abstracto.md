@@ -5,7 +5,7 @@ description: "Action Painting: Estados Unidos roba el centro del arte mundial a
   París mediante el gesto expansivo y heroico de la posguerra."
 category: Post Guerras
 imageUrl: /uploads/vargas-de-la-llata-francisco.-expresionismo-abstracto-02.png
-audioUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-del-caos-de-pollock-al-diseño-industrial.mp3
+audioUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-del-caos-de-pollock-al-diseno-industrial.mp3
 takeaways:
   - El primer gran movimiento en la historia del arte cuyo epicentro
     indiscutible fue Nueva York en vez de Europa Occidental (inicios de 1950s).
@@ -29,7 +29,7 @@ gallery:
   - image: /uploads/pollock-jackson.-guanming.png
   - image: /uploads/cook-robert.-bailarinas-1963.png
 infographicUrl: /uploads/vargas-de-la-llata-francisco.-expresionismo-abstracto-01.png
-classNotesUrl: /uploads/unidad-temática-expresionismo-abstracto.pdf
+classNotesUrl: /uploads/unidad-tematica-expresionismo-abstracto.pdf
 quiz:
   - question: ¿Qué elemento fundamental europeo eliminó por completo el famoso
       pintor estrella del movimiento, Jackson Pollock, de toda su técnica

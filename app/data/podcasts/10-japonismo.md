@@ -4,8 +4,8 @@ title: Japonismo
 description: La fascinación europea por el arte oriental que transformó la
   composición occidental.
 category: Pre Guerras
-imageUrl: /uploads/captura-de-pantalla-2026-03-18-a-la-s-10.17.28 p.m..png
-audioUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-cómo-japón-inventó-el-diseño-moderno.mp3
+imageUrl: /uploads/captura-de-pantalla-2026-03-18-a-la-s-10.17.28-p.m..png
+audioUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-como-japon-invento-el-diseno-moderno.mp3
 takeaways:
   - Fue la locura y aprecio por la estética del arte y diseño japonés en Europa
     occidental (especialmente en Francia).
@@ -20,8 +20,8 @@ takeaways:
 gallery:
   - image: https://images.unsplash.com/photo-1528151970222-3864555db1da?q=80&w=800
   - /uploads/breitner-george-1894-chica-en-kimono-blanco.jpeg
-  - /uploads/monet-claude.-1875-madame-monet-en-traje-japonés.webp
-  - /uploads/jinghe-gustave-léonard.-1865-el-abanico-japonés.jpg
+  - /uploads/monet-claude.-1875-madame-monet-en-traje-japones.webp
+  - /uploads/jinghe-gustave-leonard.-1865-el-abanico-japones.jpg
   - /uploads/japo2-644x362.jpg
   - /uploads/hokusai-katsushika-la-gran-ola-de-kanagawua.webp
   - /uploads/stevens-alfred.-1872-a-parisina-japonesa.jpg

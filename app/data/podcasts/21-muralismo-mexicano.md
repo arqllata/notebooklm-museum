@@ -31,7 +31,7 @@ takeaways:
 gallery:
   - image: https://images.unsplash.com/photo-1548235882-6fdb9c1b48d2?q=80&w=800
 infographicUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-muralismo-mexicano-02.png
-classNotesUrl: /uploads/unidad-temática-el-muralismo-mexicano.pdf
+classNotesUrl: /uploads/unidad-tematica-el-muralismo-mexicano.pdf
 quiz:
   - question: ¿A quiénes integraban el legendario colectivo invencible continental
       conocido hoy por los libros mundiales como "Los Tres Grandes" maestros

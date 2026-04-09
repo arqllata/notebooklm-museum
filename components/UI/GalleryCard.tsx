@@ -47,7 +47,7 @@ const GalleryCard: React.FC<GalleryCardProps> = ({ id, title, description, categ
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
         >
-            <Link href={`/podcast/${id}`} className="block h-full">
+            <Link href={`/podcast/${id}/`} className="block h-full">
                 {/* Image Container */}
                 <div className="relative aspect-[4/3] w-full overflow-hidden bg-gray-800">
                     {!imageError && imageUrl ? (

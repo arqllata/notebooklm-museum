@@ -3,12 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "predev": "node scripts/sanitize-assets.js",
     "dev": "next dev",
+    "prebuild": "node scripts/sanitize-assets.js",
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
     "panel": "concurrently \"npm run dev\" \"npx decap-server\"",
-    "publicar": "npm run build && git add . && git commit -m 'Actualización desde Panel CMS' && git push origin main"
+    "publicar": "npm run build && git add . && git commit -m 'Actualización de Museo' && git push origin main"
   },
   "dependencies": {
     "decap-cms-app": "^3.10.1",

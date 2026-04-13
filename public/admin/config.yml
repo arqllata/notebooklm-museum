@@ -3,8 +3,8 @@ backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
 
-media_folder: "public/uploads"
-public_folder: "/uploads"
+media_folder: "public/uploads/cms_images"
+public_folder: "/uploads/cms_images"
 
 collections:
   - name: "podcasts"

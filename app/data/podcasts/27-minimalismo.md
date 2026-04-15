@@ -1,12 +1,12 @@
 ---
-id: "27"
+date: 2026-04-15T14:38:00.000-06:00
 title: Minimalismo
 description: "Menos es... nada: la reducción suprema de la materia geométrica
   industrial cruda a su pura objetividad aséptica inexpresiva en el espacio
   museístico tridimensional americano estricto."
 category: Post Guerras
 imageUrl: /uploads/genera-una-imagen-de-una-mujer-joven-latina-con-atuendo-minimalista-blanco-acu-2.png
-audioUrl: "#"
+audioUrl: /uploads/cms_images/01-vargas-de-la-llata-francisco-notebooklm.-el-minimalismo-como-escudo-contra-el-caos.mp3
 takeaways:
   - Apareció y maduró violentamente agresivamente reaccionario y silente
     alrededor de los años de la década de 1960s temprana en la escena
@@ -45,6 +45,37 @@ takeaways:
     monumental.
 gallery:
   - image: https://images.unsplash.com/photo-1490226065547-8874136e0dce?q=80&w=800
+  - image: /uploads/cms_images/stringio_-1-.jpg
+  - image: /uploads/cms_images/images.jpeg
+  - image: /uploads/cms_images/images-4.jpeg
+  - image: /uploads/cms_images/imagetransformer.aspx.jpeg
+infographicUrl: /uploads/cms_images/01-vargas-de-la-llata-francisco-notebooklm.-minimalismo-el-adn-del-diseño.png
+classNotesUrl: /uploads/cms_images/unidad-didáctica-minimalismo.pdf
+quiz:
+  - question: ¿Contra qué específico mito heroico del 'gran artista sufriente genial
+      virtuoso e individual o temperamental místico derramando sudor
+      furiosamente visceral en lienzo o martillando febrilmente con cincel
+      humano y gubias madera expresiva y emocional romántica solitaria o barro
+      figurativo humano sensible expresivo de sus problemas psíquicos y
+      personales incomprensibles pasados como Dalí o Pollock o Da Vinci' se
+      rebeló agresivamente todo el movimiento dogmático riguroso y cerebral
+      geométrico radical del purismo Minimalista americano mandando al diablo
+      para siempre 'la huella ruidosa emocional manual sudorosa inestable
+      caliente y humana del expresionismo' y borrándola por completo en sus
+      obras frías absolutas y mudas gélidas geométricas que parecían construidas
+      masivamente o estandarizadas anónimamente y matemáticamente rigurosas o
+      mecánicas salidas frías alienantemente automáticas de una remota desalmada
+      perfecta enorme maquila seriada fabril robótica sin fallos?
+    options:
+      - option: Reaccionaron férreamente contra Pop Warholiano
+      - option: En contra de 'La genial mano expresiva autoral manual del artista' ('La
+          pincelada reveladora romántica psicológica' subjetiva e insustituible
+          heroica emocional dolorosa dramática o virtuosa y expresiva corporal
+          mística e ilusionista).
+      - option: Contra la estética limpia aburrida Bauhaus aséptica.
+      - option: Se rebelaron exclusivamente enfadados contra pintores primitivos
+          rupestres cavernícolas e incultos de cuevas inexploradas y vírgenes.
+    correctAnswer: 1
 faq:
   - question: ¿Si un artista como Carl Andre solo ordenaba industrialmente o mandaba
       a comprar 120 ladrillos inanimados, inertes, modulares crudos y
@@ -74,29 +105,5 @@ faq:
       en sí mismo brutalmente y honestamente 'Un Enorme e Inescapable Objeto
       Presente Innegable Geométrico En Tu Muy Terrenal Y Físico Espacio Corporal
       o Vía de Paso'. No había ni una alusión disimulada. 'Es lo que es'.
-quiz:
-  - question: ¿Contra qué específico mito heroico del 'gran artista sufriente genial
-      virtuoso e individual o temperamental místico derramando sudor
-      furiosamente visceral en lienzo o martillando febrilmente con cincel
-      humano y gubias madera expresiva y emocional romántica solitaria o barro
-      figurativo humano sensible expresivo de sus problemas psíquicos y
-      personales incomprensibles pasados como Dalí o Pollock o Da Vinci' se
-      rebeló agresivamente todo el movimiento dogmático riguroso y cerebral
-      geométrico radical del purismo Minimalista americano mandando al diablo
-      para siempre 'la huella ruidosa emocional manual sudorosa inestable
-      caliente y humana del expresionismo' y borrándola por completo en sus
-      obras frías absolutas y mudas gélidas geométricas que parecían construidas
-      masivamente o estandarizadas anónimamente y matemáticamente rigurosas o
-      mecánicas salidas frías alienantemente automáticas de una remota desalmada
-      perfecta enorme maquila seriada fabril robótica sin fallos?
-    options:
-      - option: Reaccionaron férreamente contra Pop Warholiano
-      - option: En contra de 'La genial mano expresiva autoral manual del artista' ('La
-          pincelada reveladora romántica psicológica' subjetiva e insustituible
-          heroica emocional dolorosa dramática o virtuosa y expresiva corporal
-          mística e ilusionista).
-      - option: Contra la estética limpia aburrida Bauhaus aséptica.
-      - option: Se rebelaron exclusivamente enfadados contra pintores primitivos
-          rupestres cavernícolas e incultos de cuevas inexploradas y vírgenes.
-    correctAnswer: 1
+id: "27"
 ---

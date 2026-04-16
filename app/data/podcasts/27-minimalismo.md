@@ -44,7 +44,6 @@ takeaways:
     blanda iluminada y vacía y desnuda pared donde reposa ausente silente y
     monumental.
 gallery:
-  - image: https://images.unsplash.com/photo-1490226065547-8874136e0dce?q=80&w=800
   - image: /uploads/cms_images/stringio_-1-.jpg
   - image: /uploads/cms_images/images.jpeg
   - image: /uploads/cms_images/images-4.jpeg

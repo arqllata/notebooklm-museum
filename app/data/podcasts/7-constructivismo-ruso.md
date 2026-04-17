@@ -4,7 +4,7 @@ title: Constructivismo Ruso
 description: "El arte al servicio de la revolución: fotomontajes, tipografía
   asimétrica y diseño industrial para las masas."
 category: Vanguardias
-imageUrl: /uploads/cms_images/vargas-de-la-llata-francisco.-utopia-constructivista-2.png
+imageUrl: /uploads/cms_images/portada-constructivismo.png
 audioUrl: /uploads/cms_images/vargas-de-la-llata-francisco-notebooklm.-el-constructivismo-ruso-diseñó-tu-móvil.mp3
 takeaways:
   - Fue un movimiento artístico y arquitectónico que surgió en Rusia justo antes

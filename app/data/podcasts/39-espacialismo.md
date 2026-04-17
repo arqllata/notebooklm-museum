@@ -24,7 +24,7 @@ gallery:
   - image: /uploads/cms_images/fontana-lucio.-concetto-spaziale-1958.jpg
   - image: /uploads/cms_images/fontana-lucio.-concetto-spaziale.webp
 infographicUrl: /uploads/cms_images/vargas-de-la-llata-francisco.-espacialismo.png
-classNotesUrl: /uploads/cms_images/unidad-didáctica-espacialismo.pdf
+classNotesUrl: /uploads/cms_images/unidad-didactica-espacialismo.pdf
 quiz:
   - question: ¿Qué nombre le daba Lucio Fontana a sus series de lienzos cortados?
     options:

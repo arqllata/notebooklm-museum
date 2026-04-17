@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const uploadsDir = path.join(__dirname, '..', 'public', 'uploads');
+const cmsImagesDir = path.join(__dirname, '..', 'public', 'uploads', 'cms_images');
 const podcastsDir = path.join(__dirname, '..', 'app', 'data', 'podcasts');
 
 // Validate directories exist before running
@@ -20,25 +21,31 @@ function sanitize(str) {
     .toLowerCase();
 }
 
-const files = fs.readdirSync(uploadsDir);
 const renameMap = new Map();
 
-for (const file of files) {
-  if (file === '.' || file === '..') continue;
-  
-  const oldPath = path.join(uploadsDir, file);
-  if (fs.statSync(oldPath).isDirectory()) continue;
+function sanitizeDirectory(dirPath) {
+  if (!fs.existsSync(dirPath)) return;
+  const files = fs.readdirSync(dirPath);
+  for (const file of files) {
+    if (file === '.' || file === '..') continue;
+    
+    const oldPath = path.join(dirPath, file);
+    if (fs.statSync(oldPath).isDirectory()) continue;
 
-  const newFileName = sanitize(file);
-  if (file !== newFileName) {
-    const newPath = path.join(uploadsDir, newFileName);
-    fs.renameSync(oldPath, newPath);
-    renameMap.set(file, newFileName);
+    const newFileName = sanitize(file);
+    if (file !== newFileName) {
+      const newPath = path.join(dirPath, newFileName);
+      fs.renameSync(oldPath, newPath);
+      renameMap.set(file, newFileName);
+    }
   }
 }
 
+sanitizeDirectory(uploadsDir);
+sanitizeDirectory(cmsImagesDir);
+
 if (renameMap.size > 0) {
-  console.log(`[Sanitizer] Renamed ${renameMap.size} files in public/uploads.`);
+  console.log(`[Sanitizer] Renamed ${renameMap.size} files in public/uploads and cms_images.`);
   
   const mdFiles = fs.readdirSync(podcastsDir).filter(f => f.endsWith('.md'));
   let updatedCount = 0;

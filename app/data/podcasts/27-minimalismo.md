@@ -48,8 +48,8 @@ gallery:
   - image: /uploads/cms_images/images.jpeg
   - image: /uploads/cms_images/images-4.jpeg
   - image: /uploads/cms_images/imagetransformer.aspx.jpeg
-infographicUrl: /uploads/cms_images/01-vargas-de-la-llata-francisco-notebooklm.-minimalismo-el-adn-del-diseño.png
-classNotesUrl: /uploads/cms_images/unidad-didáctica-minimalismo.pdf
+infographicUrl: /uploads/cms_images/01-vargas-de-la-llata-francisco-notebooklm.-minimalismo-el-adn-del-diseno.png
+classNotesUrl: /uploads/cms_images/unidad-didactica-minimalismo.pdf
 quiz:
   - question: ¿Contra qué específico mito heroico del 'gran artista sufriente genial
       virtuoso e individual o temperamental místico derramando sudor

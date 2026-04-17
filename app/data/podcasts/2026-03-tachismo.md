@@ -7,7 +7,7 @@ description: El tachismo es un estilo de pintura abstracta francesa (años 40-50
   y la expresión emocional directa sobre la planificación geométrica
 category: Post Guerras
 imageUrl: /uploads/cms_images/portada-tachismo.png
-audioUrl: /uploads/cms_images/vargas-de-la-llata-francisco-notebooklm.-la-mancha-que-humanizó-nuestras-ciudades.mp3
+audioUrl: /uploads/cms_images/vargas-de-la-llata-francisco-notebooklm.-la-mancha-que-humanizo-nuestras-ciudades.mp3
 takeaways:
   - Surgió en Francia en las décadas de 1940 y 1950 como variante europea del
     expresionismo abstracto (equivalente al Action Painting estadounidense).
@@ -24,7 +24,7 @@ gallery:
   - image: /uploads/cms_images/mathieu-george-01.jpg
   - image: /uploads/cms_images/tachismo-capital-del-arte.jpg
 infographicUrl: /uploads/cms_images/vargas-de-la-llata-francisco.-tachismo.png
-classNotesUrl: /uploads/cms_images/unidad-didáctica-tachismo.pdf
+classNotesUrl: /uploads/cms_images/unidad-didactica-tachismo.pdf
 quiz:
   - question: ¿De qué palabra francesa deriva el nombre del movimiento "Tachismo"?
     options:

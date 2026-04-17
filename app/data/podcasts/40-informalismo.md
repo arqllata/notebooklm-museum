@@ -25,7 +25,7 @@ gallery:
   - image: /uploads/cms_images/dubuffet-jean.-the-cow-with-the-subtle-nose-1954.png
   - image: /uploads/cms_images/fautier-jean.-otage-943.png
 infographicUrl: /uploads/cms_images/vargas-de-la-llata-francisco-notebooklm.-informalismo-01.png
-classNotesUrl: /uploads/cms_images/unidad-didáctica-arte-informal.pdf
+classNotesUrl: /uploads/cms_images/unidad-didactica-arte-informal.pdf
 quiz:
   - question: ¿Qué elemento técnico caracteriza principalmente al Informalismo de
       artistas como Antoni Tàpies?

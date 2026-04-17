@@ -5,7 +5,7 @@ description: El retorno a la artesanía y a la naturaleza como cura contra la
   alienación y fealdad de la Revolución Industrial.
 category: Design
 imageUrl: /uploads/cms_images/gemini_generated_image_n2a7azn2a7azn2a7.png
-audioUrl: /uploads/cms_images/vargas-de-la-llata-francisco-notebooklm.-la-rebelión-de-morris-contra-la-máquina.mp3
+audioUrl: /uploads/cms_images/vargas-de-la-llata-francisco-notebooklm.-la-rebelion-de-morris-contra-la-maquina.mp3
 takeaways:
   - Surgió en Gran Bretaña a finales del siglo XIX (aprox. 1880), fundado y
     liderado por William Morris.
@@ -27,7 +27,7 @@ gallery:
   - image: /uploads/cms_images/william-morris-artscrafts-oldskull-8.jpg
   - image: /uploads/cms_images/img_2902.jpg
 infographicUrl: /uploads/cms_images/vargas-de-la-llata-francisco-arts-and-crafts.png
-classNotesUrl: /uploads/cms_images/unidad-didáctica-arts-and-crafts.pdf
+classNotesUrl: /uploads/cms_images/unidad-didactica-arts-and-crafts.pdf
 quiz:
   - question: ¿De qué evento histórico fue una reacción crítica el movimiento Arts
       and Crafts?

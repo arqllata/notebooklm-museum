@@ -5,7 +5,7 @@ description: "El arte al servicio de la revolución: fotomontajes, tipografía
   asimétrica y diseño industrial para las masas."
 category: Vanguardias
 imageUrl: /uploads/cms_images/portada-constructivismo.png
-audioUrl: /uploads/cms_images/vargas-de-la-llata-francisco-notebooklm.-el-constructivismo-ruso-diseñó-tu-móvil.mp3
+audioUrl: /uploads/cms_images/vargas-de-la-llata-francisco-notebooklm.-el-constructivismo-ruso-diseno-tu-movil.mp3
 takeaways:
   - Fue un movimiento artístico y arquitectónico que surgió en Rusia justo antes
     de la Revolución de 1917 y se consolidó en los años 20.
@@ -24,7 +24,7 @@ gallery:
   - image: /uploads/cms_images/tatlin_-vladimir-evgrafovich-_1885_1953_-467x500.jpg
   - image: /uploads/cms_images/stepanova.jpeg
 infographicUrl: /uploads/cms_images/vargas-de-la-llta-francisco.-constructivismo-ruso.png
-classNotesUrl: /uploads/cms_images/unidad-didáctica-constructivismo-ruso.pdf
+classNotesUrl: /uploads/cms_images/unidad-didactica-constructivismo-ruso.pdf
 quiz:
   - question: ¿Cuál era la visión que tenían los constructivistas sobre el rol del
       artista?

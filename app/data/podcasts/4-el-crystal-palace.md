@@ -1,6 +1,6 @@
 ---
 date: 2026-04-17T15:00:00.000-06:00
-title: "1851: El Crystal Palace"
+title: "01. 1851: El Crystal Palace"
 description: Diseñado por el paisajista Joseph Paxton para la Gran Exposición de
   Londres en 1851, el Crystal Palace es considerado el gran hito fundacional del
   diseño industrial y la arquitectura moderna. Un deslumbrante pabellón de
@@ -26,8 +26,8 @@ gallery:
   - image: /uploads/cms_images/inauguracion-de-la-exposicion-universal-de-1851-en-el-crystal-palace-de-londres-por-la-reina-victoria-a-la-izquierda-litografia-de-la-epoca_09a303e5_800x577.jpg
   - image: /uploads/cms_images/87980ccd637f399ca70ed8f94b2702bf.jpg
   - image: /uploads/cms_images/cryspalace3.jpg
-infographicUrl: /uploads/placeholder.png
-classNotesUrl: /uploads/cms_images/unidad-1-1851-el-inicio.pdf
+infographicUrl: /uploads/cms_images/02-el-palacio-de-cristal.png
+classNotesUrl: /uploads/cms_images/capitulo-1-1851-palacio-de-cristal.docx
 quiz:
   - question: ¿Quién diseñó el legendario Crystal Palace de 1851?
     options:

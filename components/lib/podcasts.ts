@@ -14,11 +14,26 @@ export async function getPodcasts() {
                     const filePath = path.join(directoryPath, filename);
                     const fileContents = await fs.readFile(filePath, 'utf8');
                     const { data } = matter(fileContents);
-                    return data;
+                    
+                    // Extraer número inicial del nombre del archivo para ordenarlo
+                    const match = filename.match(/^(\d+)/);
+                    const orderNumber = match ? parseInt(match[1], 10) : 999999;
+                    
+                    return {
+                        ...data,
+                        _orderNumber: orderNumber
+                    };
                 })
         );
-        // Sort by ID or date if needed, currently returning as is
-        return podcasts;
+        
+        // Ordenar numéricamente de menor a mayor
+        podcasts.sort((a: any, b: any) => a._orderNumber - b._orderNumber);
+        
+        // Quitar la variable temporal antes de retornar
+        podcasts.forEach((p: any) => {
+            delete p._orderNumber;
+        });
+        return podcasts as any[];
     } catch (error) {
         console.error("Error reading podcasts directory:", error);
         return [];

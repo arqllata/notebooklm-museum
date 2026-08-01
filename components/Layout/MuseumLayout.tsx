@@ -24,6 +24,9 @@ const MuseumLayout: React.FC<MuseumLayoutProps> = ({ children }) => {
                             <Link href="/" className={styles.navLink}>Galería</Link>
                         </li>
                         <li>
+                            <Link href="/laboratorio" className={styles.navLink}>Laboratorio</Link>
+                        </li>
+                        <li>
                             <Link href="/about" className={styles.navLink}>Acerca de</Link>
                         </li>
                     </ul>

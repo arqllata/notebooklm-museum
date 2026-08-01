@@ -1,0 +1,305 @@
+[
+  {
+    "id_nodo": "VANG_EXPRESIONISMO_1910",
+    "movimiento": "Expresionismo Alemán",
+    "genealogia_abductiva": [
+      "herencia_simbolista: introspeccion_emocional_y_misticismo",
+      "ruptura_academica: rechazo_al_impresionismo_y_la_mimesis_burguesa",
+      "estetica_del_grito: proyeccion_del_dolor_y_la_angustia_existencial"
+    ],
+    "capa_1_tronco_biologico": {
+      "dinamica_dmn_ecn": "Desacople por trauma. Activación descontrolada de la amígdala que inunda la DMN con imaginería terrorífica y colapso de la ECN.",
+      "hipofrontalidad_transitoria": "Moderada. La prefrontal pierde control debido al estrés crónico de la guerra, liberando impulsos emocionales sin filtrar.",
+      "carga_noradrenergica": "Saturación total (Adrenalina y Cortisol al máximo). Estado permanente de alerta y amenaza a la supervivencia colectiva."
+    },
+    "capa_2_matriz_contextual": {
+      "estresores_multidimensionales": [
+        "Trauma masivo y mutilación física/espiritual tras la Primera Guerra Mundial.",
+        "Miseria social extrema, hambre e hiperinflación en la República de Weimar.",
+        "Sensación de colapso apocalíptico y pérdida de sentido existencial."
+      ],
+      "ingesta_epistemologica": [
+        "Filosofía de Nietzsche (El vitalismo dionisíaco y la destrucción de la vieja moral).",
+        "Estudios psiquiátricos sobre la histeria y el trauma postraumático militar."
+      ]
+    },
+    "capa_3_descarga_morfologica": {
+      "tecnologias_de_descarga": [
+        "El grabado en madera (xilografía) rústico y violento.",
+        "Trazo gestual rápido y distorsionado que descarga la tensión motora."
+      ],
+      "reglas_de_saliencia_estetica": [
+        "Si los colores imitan la realidad natural, se descarta.",
+        "Si las formas son suaves, armoniosas o equilibradas, se descarta."
+      ],
+      "nivel_de_abstraccion_material": 4,
+      "vectores_de_bisociacion": [
+        "Anatomía humana real + Rostros cadavéricos y angulosos de dolor (Kirchner).",
+        "Escenarios urbanos cotidianos + Perspectivas claustrofóbicas y asfixiantes (Munch/Beckmann)."
+      ]
+    },
+    "variables_singulares": {
+      "detonante_clinico": "Experiencias de pintores en el frente de batalla (ej. Kirchner sirviendo en el ejército y sufriendo colapso nervioso).",
+      "anomalia_social": "Auge del cine de terror expresionista (ej. El Gabinete del Doctor Caligari) como reflejo del cerebro social traumatizado."
+    }
+  },
+  {
+    "id_nodo": "VANG_FUTURISMO_1909",
+    "movimiento": "Futurismo Italiano",
+    "genealogia_abductiva": [
+      "herencia_divisionista: fragmentacion_optica_de_la_luz",
+      "puente_tecnologico: adoracion_por_la_maquina_y_la_dinamica_de_la_velocidad",
+      "ruptura_museistica: destruccion_de_la_estatica_clasica_y_el_pasado"
+    ],
+    "capa_1_tronco_biologico": {
+      "dinamica_dmn_ecn": "Hiperactivación dopaminérgica de la ECN. Enfoque extremo en estímulos visuales cambiantes y supresión de la DMN introspectiva.",
+      "hipofrontalidad_transitoria": "Baja. Dominio de un hiper-enfoque analítico en la física del movimiento y la velocidad de los pistones.",
+      "carga_noradrenergica": "Alta en el individuo mediante la glorificación de la adrenalina de la guerra y la velocidad del motor."
+    },
+    "capa_2_matriz_contextual": {
+      "estresores_multidimensionales": [
+        "Aparición del proletariado industrial y el hacinamiento urbano ruidoso en Milán.",
+        "Fiebre nacionalista obsesionada con demostrar el poder industrial de la nueva Italia."
+      ],
+      "ingesta_epistemologica": [
+        "El Maquinismo industrial (el motor de combustión interna y la turbina de vapor).",
+        "La Cronofotografía científica (análisis del movimiento en fotos secuenciales)."
+      ]
+    },
+    "capa_3_descarga_morfologica": {
+      "tecnologias_de_descarga": [
+        "La técnica del divisionismo de color para simular radiación y energía.",
+        "La distorsión geométrica secuencial de la forma (dinamismo plástico)."
+      ],
+      "reglas_de_saliencia_estetica": [
+        "Si la forma representada está en reposo o es estática, se descarta.",
+        "Si la imagen evoca armonía renacentista o paz contemplativa, se descarta."
+      ],
+      "nivel_de_abstraccion_material": 6,
+      "vectores_de_bisociacion": [
+        "Un caballo al galope + La velocidad secuencial de una locomotora de vapor (Boccioni).",
+        "El cuerpo de una mujer + El dinamismo dinámico de un engranaje industrial (Severini)."
+      ]
+    },
+    "variables_singulares": {
+      "detonante_urbano": "La llegada de la iluminación eléctrica pública a gran escala en Milán (destrucción de la noche natural).",
+      "infeccion_viral": "Publicación del Manifiesto en la portada del diario masivo Le Figaro en París como hackeo mediático."
+    }
+  },
+  {
+    "id_nodo": "VANG_BAUHAUS_1919",
+    "movimiento": "Bauhaus",
+    "genealogia_abductiva": [
+      "herencia_constructivista: la_forma_sigue_a_la_estructura",
+      "puente_racionalista: depuracion_del_adorno_burgues_eclectico",
+      "sintesis_industrial: fusion_total_entre_el_arte_fino_y_la_maquina"
+    ],
+    "capa_1_tronco_biologico": {
+      "dinamica_dmn_ecn": "Hiper-enfoque analítico. Dominio absoluto de la ECN para el control formal, lógico y matemático; DMN orientada a la introspección estructurada.",
+      "hipofrontalidad_transitoria": "Mínima. Se busca la máxima atención consciente, lógica y funcional para optimizar la toma de decisiones estéticas.",
+      "carga_noradrenergica": "Baja en el individuo (búsqueda activa de paz, orden, regularidad y reconstrucción nacional tras el caos de la guerra)."
+    },
+    "capa_2_matriz_contextual": {
+      "estresores_multidimensionales": [
+        "Desolación espiritual absoluta y colapso de recursos materiales tras la Primera Guerra Mundial.",
+        "Necesidad social extrema de vivienda barata, muebles estandarizados e higiene urbana."
+      ],
+      "ingesta_epistemologica": [
+        "El Racionalismo industrial (la estandarización y la producción masiva de la cadena de montaje).",
+        "La Teoría de la Gestalt (estudio psicológico de la percepción visual y la forma básica)."
+      ]
+    },
+    "capa_3_descarga_morfologica": {
+      "tecnologias_de_descarga": [
+        "La retícula modular tridimensional (malla de diseño).",
+        "Los diagramas de flujo funcional de espacios de vivienda."
+      ],
+      "reglas_de_saliencia_estetica": [
+        "Si el objeto presenta ornamentación superficial o decoración que no cumpla una función estructural, se descarta.",
+        "Si la forma geométrica no puede reducirse a círculos, cuadrados o triángulos primarios, se descarta."
+      ],
+      "nivel_de_abstraccion_material": 10,
+      "vectores_de_bisociacion": [
+        "La estructura tubular de una bicicleta + El diseño ergonómico de un sillón burgués (La silla Wassily de Breuer).",
+        "La pintura abstracta abstracta + La arquitectura de hormigón y vidrio industrial (El edificio de la Bauhaus de Gropius)."
+      ]
+    },
+    "variables_singulares": {
+      "detonante_industrial": "Disponibilidad de acero tubular doblado en frío, un material de aviación reconvertido para mobiliario doméstico.",
+      "exilio_politico_colectivo": "Migración masiva de profesores y alumnos a EE.UU. (creando la Nueva Bauhaus) tras el cierre forzado por la Gestapo en 1933."
+    }
+  },
+  {
+    "id_nodo": "VANG_CUBISMO_1907",
+    "movimiento": "Cubismo",
+    "genealogia_abductiva": [
+      "herencia_cezanniana: reduccion_de_la_naturaleza_al_cilindro_la_esfera_y_el_cono",
+      "puente_etnografico: asimilacion_de_las_mascaras_africanas_y_el_arte_primitivo",
+      "ruptura_euclidiana: destruccion_de_la_perspectiva_del_renacimiento"
+    ],
+    "capa_1_tronco_biologico": {
+      "dinamica_dmn_ecn": "Hiper-enfoque analítico. Dominio de la ECN para deconstruir el espacio tridimensional y reordenarlo plano por plano en el lienzo.",
+      "hipofrontalidad_transitoria": "Muy baja. Proceso sumamente consciente, casi cerebral y geométrico de toma de decisiones visuales.",
+      "carga_noradrenergica": "Baja en el individuo, pero alta curiosidad cognitiva por las teorías físicas del espacio de cuatro dimensiones."
+    },
+    "capa_2_matriz_contextual": {
+      "estresores_multidimensionales": [
+        "Urbanización caótica, masiva e industrializada de París a principios de siglo.",
+        "Colapso de las certezas ópticas de la física clásica en el cerebro colectivo."
+      ],
+      "ingesta_epistemologica": [
+        "Teoría de la Relatividad de Einstein (el concepto de que el espacio y el tiempo no son absolutos).",
+        "Los Rayos X (descubrimiento de que el ojo humano no puede ver el interior de la materia real)."
+      ]
+    },
+    "capa_3_descarga_morfologica": {
+      "tecnologias_de_descarga": [
+        "El collage tridimensional con materiales cotidianos (papel de periódico, rejillas).",
+        "La retícula de descomposición geométrica de planos."
+      ],
+      "reglas_de_saliencia_estetica": [
+        "Si la imagen representa volumen real usando luces y sombras tradicionales de perspectiva tridimensional, se descarta.",
+        "Si el objeto solo se observa desde un único ángulo de visión estático, se descarta."
+      ],
+      "nivel_de_abstraccion_material": 7,
+      "vectores_de_bisociacion": [
+        "La pintura de una cara humana + Las múltiples facetas angulares de las máscaras de madera africanas (Picasso).",
+        "Una guitarra de madera + Trozos de papel de periódico pegados en el plano bidimensional (Braque/Juan Gris)."
+      ]
+    },
+    "variables_singulares": {
+      "detonante_fisico": "La fascinación de Picasso por las representaciones de figuras geométricas de cuatro dimensiones en libros de divulgación matemática.",
+      "anomalia_material": "El uso de *Ripolin* (pintura industrial para barcos y paredes) para pintar cuadros, abandonando el tradicional óleo académico."
+    }
+  },
+  {
+    "id_nodo": "VANG_SURREALISMO_1924",
+    "movimiento": "Surrealismo",
+    "genealogia_abductiva": [
+      "herencia_simbolista: introspeccion_alegorica_y_rechazo_al_naturalismo",
+      "puente_metafisico: alteracion_de_la_perspectiva_y_aislamiento_del_objeto",
+      "ruptura_dadaista: destruccion_violenta_de_la_sintaxis_logica_por_trauma_belico"
+    ],
+    "capa_1_tronco_biologico": {
+      "dinamica_dmn_ecn": "Desacoplamiento intencional. Dominio total de la DMN (ensoñación) y supresión clínica de la ECN (control lógico).",
+      "hipofrontalidad_transitoria": "Nivel crítico. Buscada de forma metodológica como terapia de trance creativo.",
+      "carga_noradrenergica": "Alta en el entorno (posguerra), pero anulada en el individuo mediante la inducción del automatismo."
+    },
+    "capa_2_matriz_contextual": {
+      "estresores_multidimensionales": [
+        "Trauma residual e incontrolabilidad tras la carnicería mecanizada de la Primera Guerra Mundial.",
+        "Asfixia cognitiva por la hiperracionalidad de la moral burguesa europea de entreguerras."
+      ],
+      "ingesta_epistemologica": [
+        "Psicoanálisis (Freud: 'La interpretación de los sueños', 1899).",
+        "Psiquiatría de guerra (Experiencias de André Breton tratando a soldados con neurosis de combate en Nantes)."
+      ]
+    },
+    "capa_3_descarga_morfologica": {
+      "tecnologias_de_descarga": [
+        "Automatismo psíquico verbal y gráfico en estados de semi-trance.",
+        "El juego del Cadáver exquisito para desmantelar la autoría individual.",
+        "Frottage y Grattage para extraer patrones aleatorios de la materia y forzar la pareidolia visual."
+      ],
+      "reglas_de_saliencia_estetica": [
+        "Si la obra presenta control racional, estético o moral consciente, se descarta.",
+        "Si la asociación de ideas es predecible, lineal o racional, se descarta."
+      ],
+      "nivel_de_abstraccion_material": 5,
+      "vectores_de_bisociacion": [
+        "Sintaxis visual hiperrealista + Escenarios espacialmente imposibles (Dalí/Magritte).",
+        "Impulso motor subcortical + Abstracción biomórfica (Miró/Masson)."
+      ]
+    },
+    "variables_singulares": {
+      "detonante_clinico": "El encuentro de Breton con soldados que recordaban la guerra en forma de visiones fragmentadas (alucinaciones inducidas por trauma).",
+      "ingesta_quimica": "Consumo metodológico experimental de óxido nitroso o hachís por miembros del grupo en los 'periodos de sueño' para inducir hipofrontalidad."
+    }
+  },
+  {
+    "id_nodo": "VANG_DADAISMO_1916",
+    "movimiento": "Dadaísmo",
+    "genealogia_abductiva": [
+      "ruptura_moral: desilusion_del_progreso_industrial_humano",
+      "puente_nihilista: destruccion_de_la_belleza_formal_del_museo",
+      "estetica_del_azar: el_ruido_y_la_basura_como_materia_prima"
+    ],
+    "capa_1_tronco_biologico": {
+      "dinamica_dmn_ecn": "Desacople traumático absoluto. Inundación total de la amígdala con cortisol y adrenalina; anulación destructiva de la ECN lógica y rechazo de la DMN contemplativa.",
+      "hipofrontalidad_transitoria": "Nivel extremo. Búsqueda activa de la pérdida de control, recurriendo al azar absoluto y al automatismo destructivo.",
+      "carga_noradrenergica": "Saturación catastrófica. Supervivencia y pánico moral colectivos provocados por la Primera Guerra Mundial."
+    },
+    "capa_2_matriz_contextual": {
+      "estresores_multidimensionales": [
+        "El horror masivo de la carnicería a escala industrial (gases de guerra, trincheras).",
+        "Sensación de traición absoluta de la ciencia y la razón como motores de la destrucción colectiva."
+      ],
+      "ingesta_epistemologica": [
+        "El Nihilismo absoluto y el rechazo a cualquier valor moral o estético tradicional.",
+        "La teoría de las probabilidades de Henri Poincaré (el papel del azar puro)."
+      ]
+    },
+    "capa_3_descarga_morfologica": {
+      "tecnologias_de_descarga": [
+        "El Readymade (elevar un objeto industrial mundano a la categoría de arte).",
+        "El fotocollage absurdo utilizando periódicos, anuncios y basura encontrada."
+      ],
+      "reglas_de_saliencia_estetica": [
+        "Si la obra presenta cualquier atisbo de técnica, destreza técnica, composición armoniosa o lógica lineal, se descarta.",
+        "Si el objeto evoca belleza espiritual o valor económico burgués, se descarta."
+      ],
+      "nivel_de_abstraccion_material": 3,
+      "vectores_de_bisociacion": [
+        "Un mingitorio de porcelana industrial + Una firma y título artístico en un museo de bellas artes (La Fuente de Duchamp).",
+        "Un poema escrito en papel + Recortar las palabras al azar de una bolsa y soltarlas en el suelo (Tristan Tzara)."
+      ]
+    },
+    "variables_singulares": {
+      "detonante_moral": "El Cabaret Voltaire en la neutral Zúrich, donde poetas exiliados de toda Europa se reunían a gritar poemas simultáneos para expresar la esquizofrenia cultural de la guerra.",
+      "anomalia_material": "El uso de billetes de tren caducados, alambres oxidados y trozos de periódico pegados con engrudo casero."
+    }
+  },
+  {
+    "id_nodo": "VANG_ART_NOUVEAU_1890",
+    "movimiento": "Art Nouveau / Sezession",
+    "genealogia_abductiva": [
+      "herencia_arts_and_crafts: recuperacion_del_oficio_frente_a_la_maquina",
+      "puente_biologico: asimilacion_de_los_patrones_de_vida_naturales",
+      "sintesis_sensual: fusion_de_la_secuencia_de_linea_latigazo_con_el_metal"
+    ],
+    "capa_1_tronco_biologico": {
+      "dinamica_dmn_ecn": "Sincronía introspectiva. Activación pacífica de la DMN buscando belleza, placer visual y cohesión estética, con una ECN orientada a la precisión de la línea curva.",
+      "hipofrontalidad_transitoria": "Baja. Proceso muy controlado, enfocado en lograr una regularidad y fluidez decorativa casi matemática y ornamental.",
+      "carga_noradrenergica": "Baja en el individuo, buscando calmar el estrés de la jungla de asfalto mediante un refugio sensorial de armonía orgánica."
+    },
+    "capa_2_matriz_contextual": {
+      "estresores_multidimensionales": [
+        "Fuerte asfixia cognitiva y rechazo al entorno urbano e industrial gris y repetitivo de las fábricas.",
+        "Obsesión de la burguesía culta de fin de siglo por escapar de la decoración historicista pesada."
+      ],
+      "ingesta_epistemologica": [
+        "Botánica morfológica (Ilustraciones científicas del biólogo Ernst Haeckel en 'Formas artísticas de la naturaleza').",
+        "El Simbolismo decadentista (el escape de la realidad material a favor de la fantasía y los sueños)."
+      ]
+    },
+    "capa_3_descarga_morfologica": {
+      "tecnologias_de_descarga": [
+        "La técnica del metal fundido doblado y el modelado asimétrico tridimensional.",
+        "El diseño de patrones decorativos integrales en el mobiliario."
+      ],
+      "reglas_de_saliencia_estetica": [
+        "Si el diseño presenta formas simétricas rígidas, ángulos rectos industriales o falta de decoración fluida, se descarta.",
+        "Si la decoración es historicista ecléctica o copia del pasado clásico académico, se descarta."
+      ],
+      "nivel_de_abstraccion_material": 6,
+      "vectores_de_bisociacion": [
+        "Las raíces curvas entrelazadas de una planta de hiedra + La barandilla de hierro fundido de una escalera urbana (Victor Horta).",
+        "El cuerpo femenino + La ornamentación bizantina de mosaicos de oro planos (Klimt)."
+      ]
+    },
+    "variables_singulares": {
+      "detonante_visual": "El descubrimiento de la xilografía japonesa (ukiyo-e) y su uso radical del plano plano y el contorno negro fluido.",
+      "anomalia_arquitectonica": "El edificio de la Secesión Vienesa con su cúpula de hojas de laurel doradas de hierro forjado, gritando el lema: 'A cada época su arte, al arte su libertad'."
+    }
+  }
+]

@@ -1,6 +1,6 @@
 ---
 id: "46"
-title: Maximalismo
+title: "46. Maximalismo"
 description: Una reacción estridente, ecléctica y profundamente lúdica contra la frialdad y austeridad del Minimalismo ("Less is a bore" en contraposición al "Less is more"). Abarca la sobresaturación curada, la mezcla audaz de colores vibrantes, patrones históricos, texturas y piezas que en la tradición moderna jamás irían juntas, celebrando la acumulación visual exuberante.
 category: Posmodernismo
 imageUrl: https://images.unsplash.com/photo-1549488344-1f9b8d2bd1f3?q=80&w=800

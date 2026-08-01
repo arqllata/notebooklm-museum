@@ -1,6 +1,6 @@
 ---
 id: "42"
-title: Slick Tech
+title: "42. Slick Tech"
 description: "Evolución casi opuesta (o complemento estilístico) del High Tech en los años 80, que ocultó toda la maquinaria que su predecesor exponía tras inmensas barreras lisas, reflectantes y oscuras. El Slick Tech se caracteriza por generar volúmenes corporativos pulidos y anónimos: muros cortina de cristal espejo, aceros cromados y geometrías súper puras que no revelan nada de lo que ocurre en su interior."
 category: Tardomoderno
 imageUrl: https://images.unsplash.com/photo-1428366890462-dd4baecf492b?q=80&w=800

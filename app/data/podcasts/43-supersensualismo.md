@@ -1,6 +1,6 @@
 ---
 id: "43"
-title: Supersensualismo
+title: "43. Supersensualismo"
 description: Originado predominantemente en Italia durante los convulsos años finales de los 60 e inicios de los 70 (como parte del Diseño Radical o Anti-Design), el Supersensualismo es una reacción poética, onírica y a menudo irónica contra el consumismo frío y el Racionalismo rígido. Renunció al dogma del "form follows function" en favor del "form follows emotion", creando visiones monumentales utópicas (o distópicas) y mobiliario profundamente escenográfico, evocativo y sensual.
 category: Tardomoderno
 imageUrl: https://images.unsplash.com/photo-1574068305001-ec0c3dc48d9e?q=80&w=800

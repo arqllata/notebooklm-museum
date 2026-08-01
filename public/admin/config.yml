@@ -14,6 +14,7 @@ collections:
     format: "frontmatter"
     create: true
     slug: "{{slug}}"
+    summary: "{{title}}"
     fields:
 
       - {label: "Fecha", name: "date", widget: "datetime"}

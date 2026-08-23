@@ -1,6 +1,6 @@
 ---
-date: 2026-04-14T15:50:00.000-06:00
-title: "02. Arts & Crafts"
+date: 2026-08-23T10:06:00.000-06:00
+title: 02. Arts & Crafts
 description: El retorno a la artesanía y a la naturaleza como cura contra la
   alienación y fealdad de la Revolución Industrial.
 category: Design
@@ -27,7 +27,7 @@ gallery:
   - image: /uploads/cms_images/william-morris-artscrafts-oldskull-8.jpg
   - image: /uploads/cms_images/img_2902.jpg
 infographicUrl: /uploads/cms_images/vargas-de-la-llata-francisco-arts-and-crafts.png
-classNotesUrl: /uploads/cms_images/unidad-didactica-arts-and-crafts.pdf
+classNotesUrl: /uploads/cms_images/capitulo-2-arts-and-crafts.docx
 quiz:
   - question: ¿De qué evento histórico fue una reacción crítica el movimiento Arts
       and Crafts?

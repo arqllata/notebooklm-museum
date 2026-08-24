@@ -1,9 +1,9 @@
 ---
 date: 2026-04-12T19:12:00.000-06:00
-title: "04. Impresionismo"
+title: 04. Impresionismo
 description: La pintura de la luz, el momento fugaz y la vida moderna en París.
 category: Pre Guerras
-imageUrl: /uploads/7xqet.jpg
+imageUrl: /uploads/cms_images/image-2.jpg
 audioUrl: /uploads/03-vargas-de-la-llata-francisco.-de-la-pincelada-al-diseno-moderno.mp3
 takeaways:
   - Surgió en Francia en la segunda mitad del siglo XIX (aprox. 1874).
@@ -21,7 +21,7 @@ gallery:
   - image: /uploads/manet-edouard.-el-bar-en-el-folies-bergere-1882.-jpg.jpg
   - image: /uploads/degas-edgar.-las-bailarinas-azules-1897.jpg
 infographicUrl: /uploads/impresionismo.png
-classNotesUrl: /uploads/unidad-didactica-impresionismo.pdf
+classNotesUrl: /uploads/cms_images/capitulo-4-impresionismo.docx
 quiz:
   - question: ¿Qué avance tecnológico permitió a los impresionistas salir a pintar
       al campo abierto (en plein air)?

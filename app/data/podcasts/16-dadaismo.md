@@ -5,7 +5,7 @@ description: El anti-arte, la burla, la ironía pura y el triunfo del azar sobre
   la razón burguesa.
 category: ENTRE GUERRAS
 imageUrl: /uploads/portada-dadaismo.png
-audioUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/audio/vargas-de-la-llata-francisco-noteboklm.-dadaismo-y-el-origen-de-los-memes.mp3
+audioUrl: https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/audio/vargas-de-la-llata-francisco-noteboklm.-dadaismo-y-el-origen-de-los-memes.mp3
 takeaways:
   - Surgió en el Cabaret Voltaire, en Zúrich (país neutral Suiza) en 1916,
     fundado por exiliados asqueados por la carnicería absurda de la Primera

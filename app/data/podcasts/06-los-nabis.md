@@ -4,7 +4,7 @@ title: 06. Los Nabis
 description: Profetas del color plano, la decoración y el simbolismo místico encubierto.
 category: Pre Guerras
 imageUrl: /uploads/cms_images/los-nabis.png
-audioUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/audio/vargas-de-la-llata-francisco-notebooklm.-los-nabis-profetas-del-diseno-moderno.mp3
+audioUrl: https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/audio/vargas-de-la-llata-francisco-notebooklm.-los-nabis-profetas-del-diseno-moderno.mp3
 takeaways:
   - Los Nabis ('profetas' en hebreo) fueron un grupo secreto de artistas jóvenes
     postimpresionistas formados en París en 1888.
@@ -27,7 +27,7 @@ gallery:
   - image: /uploads/cms_images/gauguin-paul.-1892-en-el-mar.jpg
   - image: /uploads/cms_images/denis-maurice.-1917-galatea.jpg
 infographicUrl: /uploads/vargas-de-la-llata-francisco.-los-nabis.png
-classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/capitulo-7-los-nabis.docx
+classNotesUrl: https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/documents/capitulo-7-los-nabis.docx
 quiz:
   - question: ¿Qué famoso pintor, con sus obras planas de color y temáticas de
       Tahití y la Bretaña, fue la principal gran influencia de los Nabis?

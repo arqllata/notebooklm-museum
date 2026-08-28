@@ -62,9 +62,17 @@ if (fs.existsSync(podcastsDir)) {
     let content = fs.readFileSync(mdPath, 'utf8');
     let hasChanges = false;
 
+    // Rewrite raw.githubusercontent.com references to cdn.jsdelivr.net for speed
+    const rawHost = 'https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/';
+    const cdnHost = 'https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/';
+    if (content.includes(rawHost)) {
+      content = content.split(rawHost).join(cdnHost);
+      hasChanges = true;
+    }
+
     // Replace audio references
     for (const file of audioFiles) {
-      const gitHubUrl = `https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/audio/${file}`;
+      const gitHubUrl = `https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/audio/${file}`;
       
       const localCmsPath = `/uploads/cms_images/${file}`;
       if (content.includes(localCmsPath)) {
@@ -81,7 +89,7 @@ if (fs.existsSync(podcastsDir)) {
 
     // Replace document/pdf references
     for (const file of docFiles) {
-      const gitHubUrl = `https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/${file}`;
+      const gitHubUrl = `https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/documents/${file}`;
       
       const localCmsPath = `/uploads/cms_images/${file}`;
       if (content.includes(localCmsPath)) {

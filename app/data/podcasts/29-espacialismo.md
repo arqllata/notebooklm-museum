@@ -8,7 +8,7 @@ description: Fundado por el artista ítalo-argentino Lucio Fontana a finales de
   un objeto contemplativo a una dimensión que traspasa la materia.
 category: Art Autre
 imageUrl: /uploads/cms_images/portada-espacialismo.png
-audioUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/audio/vargas-de-la-llata-francisco.-espacialismo.mp3
+audioUrl: https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/audio/vargas-de-la-llata-francisco.-espacialismo.mp3
 takeaways:
   - Surgió en 1947 con el Manifiesto Blanco de Lucio Fontana en Buenos Aires y
     luego afianzado en Milán.
@@ -24,7 +24,7 @@ gallery:
   - image: /uploads/cms_images/fontana-lucio.-concetto-spaziale-1958.jpg
   - image: /uploads/cms_images/fontana-lucio.-concetto-spaziale.webp
 infographicUrl: /uploads/cms_images/vargas-de-la-llata-francisco.-espacialismo.png
-classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/unidad-didactica-espacialismo.pdf
+classNotesUrl: https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/documents/unidad-didactica-espacialismo.pdf
 quiz:
   - question: ¿Qué nombre le daba Lucio Fontana a sus series de lienzos cortados?
     options:

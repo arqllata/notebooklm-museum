@@ -6,7 +6,7 @@ description: "Menos es... nada: la reducción suprema de la materia geométrica
   museístico tridimensional americano estricto."
 category: Post Guerras
 imageUrl: /uploads/genera-una-imagen-de-una-mujer-joven-latina-con-atuendo-minimalista-blanco-acu-2.png
-audioUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/audio/01-vargas-de-la-llata-francisco-notebooklm.-el-minimalismo-como-escudo-contra-el-caos.mp3
+audioUrl: https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/audio/01-vargas-de-la-llata-francisco-notebooklm.-el-minimalismo-como-escudo-contra-el-caos.mp3
 takeaways:
   - Apareció y maduró violentamente agresivamente reaccionario y silente
     alrededor de los años de la década de 1960s temprana en la escena
@@ -49,7 +49,7 @@ gallery:
   - image: /uploads/cms_images/images-4.jpeg
   - image: /uploads/cms_images/imagetransformer.aspx.jpeg
 infographicUrl: /uploads/cms_images/01-vargas-de-la-llata-francisco-notebooklm.-minimalismo-el-adn-del-diseno.png
-classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/unidad-didactica-minimalismo.pdf
+classNotesUrl: https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/documents/unidad-didactica-minimalismo.pdf
 quiz:
   - question: ¿Contra qué específico mito heroico del 'gran artista sufriente genial
       virtuoso e individual o temperamental místico derramando sudor

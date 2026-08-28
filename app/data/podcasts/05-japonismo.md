@@ -5,7 +5,7 @@ description: La fascinación europea por el arte oriental que transformó la
   composición occidental.
 category: Pre Guerras
 imageUrl: /uploads/captura-de-pantalla-2026-03-18-a-la-s-10.17.28-p.m..png
-audioUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/audio/vargas-de-la-llata-francisco-notebooklm.-como-japon-invento-el-diseno-moderno.mp3
+audioUrl: https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/audio/vargas-de-la-llata-francisco-notebooklm.-como-japon-invento-el-diseno-moderno.mp3
 takeaways:
   - Fue la locura y aprecio por la estética del arte y diseño japonés en Europa
     occidental (especialmente en Francia).

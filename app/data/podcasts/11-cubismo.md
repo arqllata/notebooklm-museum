@@ -5,7 +5,7 @@ description: "La fragmentación de la realidad: múltiples perspectivas en un so
   plano pictórico."
 category: Entre Guerras
 imageUrl: /uploads/portada-cubismo.png
-audioUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/audio/vargas-de-la-llata-francisco-notebooklm.-el-cubismo-dinamito-la-perspectiva-tradicional.mp3
+audioUrl: https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/audio/vargas-de-la-llata-francisco-notebooklm.-el-cubismo-dinamito-la-perspectiva-tradicional.mp3
 takeaways:
   - El movimiento revolucionario creado por Pablo Picasso y Georges Braque en
     París entre 1907 y 1914.

@@ -5,7 +5,7 @@ description: La búsqueda de la armonía universal a través de la abstracción
   pura, colores primarios y líneas rectas.
 category: Vanguardias
 imageUrl: /uploads/portada-neoplastisismo.png
-audioUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/audio/vargas-de-la-llata-francisco-notebooklm.-de-stijl-y-la-utopia-del-orden.mp3
+audioUrl: https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/audio/vargas-de-la-llata-francisco-notebooklm.-de-stijl-y-la-utopia-del-orden.mp3
 takeaways:
   - De Stijl ('El Estilo') fue un movimiento artístico holandés fundado en 1917
     por Theo van Doesburg.
@@ -24,7 +24,7 @@ gallery:
   - image: /uploads/d23abe83ad85095ae7afc6b180bb3ae3.jpg
   - image: /uploads/metalocus_mondrian_de_stijl_mncars_08.webp
 infographicUrl: /uploads/vargas-de-la-llata-francisco.-de-stijl-02.png
-classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/unidad-tematica-de-stijl.pdf
+classNotesUrl: https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/documents/unidad-tematica-de-stijl.pdf
 quiz:
   - question: ¿Qué colores puros permitía usar la teoría del Neoplasticismo?
     options:

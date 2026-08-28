@@ -6,7 +6,7 @@ description: "El optimismo atómico en madera y plástico: el diseño orgánico
   victorioso."
 category: Post Guerras
 imageUrl: /uploads/22617c74-c8fe-4019-befc-ba5ca83fd515.png
-audioUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/audio/vargas-de-a-llata-francisco-notebooklm.-ingenieria-y-fabricacion-del-mid-century-modern.mp3
+audioUrl: https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/audio/vargas-de-a-llata-francisco-notebooklm.-ingenieria-y-fabricacion-del-mid-century-modern.mp3
 takeaways:
   - El estilo panamericano dominante e increíblemente popular abarcando
     aproximadamente desde el fin de la guerra (1945) hasta el asesinato de JFK
@@ -30,7 +30,7 @@ gallery:
   - image: /uploads/images.jpeg
   - image: /uploads/get-to-know-saarinen.jpg
 infographicUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-mcm.png
-classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/unidad-didactica-mid-century-modern.pdf
+classNotesUrl: https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/documents/unidad-didactica-mid-century-modern.pdf
 quiz:
   - question: ¿Quién fue el legendario matrimonio americano que popularizó
       mundialmente el moldeo continuo anatómico y tridimensional e industrial

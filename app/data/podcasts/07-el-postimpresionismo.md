@@ -9,7 +9,7 @@ description: El Postimpresionismo describe la obra de un grupo de artistas de
   más tarde detonaría las vanguardias del siglo XX.
 category: PRE GUERRAS
 imageUrl: /uploads/cms_images/frey-2.png
-audioUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/audio/vargas-de-la-llata-francisco.-como-el-postimpresionismo-invento-el-diseno-moderno.mp3
+audioUrl: https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/audio/vargas-de-la-llata-francisco.-como-el-postimpresionismo-invento-el-diseno-moderno.mp3
 takeaways:
   - "De la luz a la estructura: Mientras el impresionismo intentaba atrapar la
     luz fugaz, los postimpresionistas buscaron la solidez, la forma duradera y
@@ -31,7 +31,7 @@ gallery:
   - image: /uploads/cms_images/images.jpeg
   - image: /uploads/cms_images/images.jpeg
 infographicUrl: /uploads/cms_images/vargas-de-la-llata-francisco.-postimpresionismo-y-diseno-industrial.png
-classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/capitulo-6-postimpresionismo.docx
+classNotesUrl: https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/documents/capitulo-6-postimpresionismo.docx
 quiz:
   - question: ¿Qué pintor postimpresionista propuso reducir la naturaleza al
       cilindro, la esfera y el cono, anticipando el cubismo?

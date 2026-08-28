@@ -5,7 +5,7 @@ description: "El dictado automático de la mente: sueños lúcidos, psicoanális
   el misterio por encima de la vigilia cotidiana."
 category: Entre Guerras
 imageUrl: /uploads/portada-surrealismo.jpeg
-audioUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/audio/vargas-de-la-llata-francisco-notebooklm.-cien-anos-de-rebelion-contra-la-logica.mp3
+audioUrl: https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/audio/vargas-de-la-llata-francisco-notebooklm.-cien-anos-de-rebelion-contra-la-logica.mp3
 takeaways:
   - Movimiento cultural nacido oficilamente en París tras el Primer Manifiesto
     Surrealista de André Breton en 1924.

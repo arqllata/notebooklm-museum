@@ -4,7 +4,7 @@ title: "08. Simbolismo"
 description: El arte de los sueños, los mitos, la noche y los misterios del alma oculta.
 category: Pre Guerras
 imageUrl: /uploads/581c4545-0689-4cfe-ad70-40e2896c6a8a.jpg
-audioUrl: https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/audio/vargas-de-la-llata.-francisco-notebooklm.-el-virus-estetico-del-simbolismo.mp3
+audioUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/audio/vargas-de-la-llata.-francisco-notebooklm.-el-virus-estetico-del-simbolismo.mp3
 takeaways:
   - Movimiento literario y artístico originado en Francia, Rusia y Bélgica a
     finales del siglo XIX.

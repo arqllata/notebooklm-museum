@@ -7,7 +7,7 @@ description: El inminente asombroso impredecible inestable perturbador rápido
   junto con las máquinas latentes neuronales algorítmicas.
 category: Post Guerras
 imageUrl: /uploads/portada-adai.png
-audioUrl: https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/audio/vargas-de-la-llata-francisco-notebooklm.-rascacielos-que-crecen-con-ia-y-neuronas.mp3
+audioUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/audio/vargas-de-la-llata-francisco-notebooklm.-rascacielos-que-crecen-con-ia-y-neuronas.mp3
 takeaways:
   - El salto exponencial cuántico contemporáneo global del rudimentario obsoleto
     diseño digital manual pixelado a la rápida ebullición abrumadora infinita de
@@ -34,7 +34,7 @@ gallery:
   - image: /uploads/zaha-hadid-architects-arquitectura-china-diseno-centro-cultural-04072022.webp
   - image: /uploads/images.jpeg
 infographicUrl: /uploads/unknown.jpeg
-classNotesUrl: https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/documents/unidad-tematica-diseno-asistido-con-ia.pdf
+classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/unidad-tematica-diseno-asistido-con-ia.pdf
 quiz:
   - question: ¿Qué rol inestable rápido o inquietante radical veloz toma
       inminentemente ahora de repente mundialmente el tradicional artesano y

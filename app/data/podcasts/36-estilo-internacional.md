@@ -6,7 +6,7 @@ description: "La arquitectura de cristal y acero: el manifiesto universal de la
   corporación moderna libre de adornos."
 category: Post Guerras
 imageUrl: /uploads/captura-de-pantalla-2026-04-06-a-la-s-10.58.10-p.m..png
-audioUrl: https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/audio/vargas-de-la-llata-francisco-notebooklm.-racionalismo.mp3
+audioUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/audio/vargas-de-la-llata-francisco-notebooklm.-racionalismo.mp3
 takeaways:
   - El gran estilo arquitectónico que definió los rascacielos y oficinas del
     mundo corporativo tras 1945, derivado directamente de la Bauhaus alemana

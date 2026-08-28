@@ -5,7 +5,7 @@ description: Geometric patterns, bold colors, and the celebration of machinery.
   The style that defined the jazz age skyscrapers.
 category: Entre Guerras
 imageUrl: /uploads/img_2350.jpg
-audioUrl: https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/audio/vargas-de-la-llata-francisco-notebooklm.-la-ambicion-futurista-de-redisenar-el-universo.mp3
+audioUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/audio/vargas-de-la-llata-francisco-notebooklm.-la-ambicion-futurista-de-redisenar-el-universo.mp3
 takeaways:
   - El Art Deco surgió como una celebración del progreso tecnológico y la
     modernidad posguerra.

@@ -9,7 +9,7 @@ description: El Esteticismo fue un movimiento artístico del siglo XIX que
   fabricados en masa de la Revolución Industrial.
 category: Siglo XIX
 imageUrl: /uploads/cms_images/chatgpt-image-23-ago-2026-07_29_20-p.m..png
-audioUrl: https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/audio/vargas-de-la-llata-francisco.-la-rebelion-politica-de-las-teteras-victorianas.mp3
+audioUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/audio/vargas-de-la-llata-francisco.-la-rebelion-politica-de-las-teteras-victorianas.mp3
 takeaways:
   - "La belleza por encima de todo: Defendió que el valor principal del arte
     radica en su capacidad de generar placer sensual y goce estético puro."
@@ -30,7 +30,7 @@ gallery:
   - image: /uploads/cms_images/imagen-3.jpg
   - image: /uploads/cms_images/imagen-7.jpg
 infographicUrl: /uploads/cms_images/vargas-de-la-llata-francisco.-el-movimiento-esteticista.png
-classNotesUrl: https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/documents/capitulo-3-esteticismo.docx
+classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/capitulo-3-esteticismo.docx
 quiz:
   - question: ¿Cuál es el lema fundamental del Esteticismo?
     options:

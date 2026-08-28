@@ -6,7 +6,7 @@ description: ¡Menos es aburrido! Ironía, maximalismo pastel vibrante confuso
   purista aséptico aburrido silente.
 category: Post Guerras
 imageUrl: /uploads/captura-de-pantalla-2026-04-12-a-la-s-6.21.24-p.m..png
-audioUrl: https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/audio/vargas-de-la-llata-francisco-notebooklm.-d.i.-del-pruitt-igoe-al-diseno-de-memphis.mp3
+audioUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/audio/vargas-de-la-llata-francisco-notebooklm.-d.i.-del-pruitt-igoe-al-diseno-de-memphis.mp3
 takeaways:
   - El inmenso giro ruidoso confuso radical irreverente lúdico cultural y plural
     monumental del siglo XX tras 1970 y dominando el mundo entero en diseño
@@ -55,7 +55,7 @@ gallery:
   - image: /uploads/sottsass-etore.-carlton-room-divider-1981.jpg
   - image: /uploads/sottsass-etore.-carlton-room-divider-1981.jpg
 infographicUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-posmodernismo.png
-classNotesUrl: https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/documents/unidad-didactica-posmodernismo.docx
+classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/unidad-didactica-posmodernismo.docx
 quiz:
   - question: ¿La genial, atrevida lúdica escandalizadora mundial de color
       estridente disonante italiana e irónica famosa irreverente internacional

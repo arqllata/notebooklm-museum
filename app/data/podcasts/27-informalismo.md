@@ -9,7 +9,7 @@ description: El Informalismo abarca una serie de tendencias de pintura abstracta
   costras) mediante técnicas como el empaste.
 category: Art Autre
 imageUrl: /uploads/cms_images/portada-informalismo.png
-audioUrl: https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/audio/vargas-de-la-llata-francisco-notebooklm.-imformalismo.mp3
+audioUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/audio/vargas-de-la-llata-francisco-notebooklm.-imformalismo.mp3
 takeaways:
   - Destaca en Europa occidental (Francia, España, Italia) tras la devastación
     psicológica y física de la posguerra.
@@ -25,7 +25,7 @@ gallery:
   - image: /uploads/cms_images/dubuffet-jean.-the-cow-with-the-subtle-nose-1954.png
   - image: /uploads/cms_images/fautier-jean.-otage-943.png
 infographicUrl: /uploads/cms_images/vargas-de-la-llata-francisco-notebooklm.-informalismo-01.png
-classNotesUrl: https://cdn.jsdelivr.net/gh/arqllata/notebooklm-museum@main/media/documents/unidad-didactica-arte-informal.pdf
+classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/unidad-didactica-arte-informal.pdf
 quiz:
   - question: ¿Qué elemento técnico caracteriza principalmente al Informalismo de
       artistas como Antoni Tàpies?

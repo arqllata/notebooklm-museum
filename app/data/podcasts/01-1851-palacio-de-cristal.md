@@ -8,7 +8,7 @@ description: Diseñado por el paisajista Joseph Paxton para la Gran Exposición 
   estandarización, pero...
 category: Revolución Industrial
 imageUrl: /uploads/cms_images/portada-1851.png
-audioUrl: /uploads/cms_images/vargas-de-la-llata.-francisco-notebooklm.-el-origen-imperial-del-diseno-moderno.mp3
+audioUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/audio/vargas-de-la-llata.-francisco-notebooklm.-el-origen-imperial-del-diseno-moderno.mp3
 takeaways:
   - "El salto ingenieril: Fue diseñado por Joseph Paxton, un experto constructor
     de invernaderos, marcando una ruptura donde las soluciones técnicas audaces
@@ -27,7 +27,7 @@ gallery:
   - image: /uploads/cms_images/87980ccd637f399ca70ed8f94b2702bf.jpg
   - image: /uploads/cms_images/cryspalace3.jpg
 infographicUrl: /uploads/cms_images/02-el-palacio-de-cristal.png
-classNotesUrl: /uploads/cms_images/capitulo-1-1851.docx
+classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/capitulo-1-1851.docx
 quiz:
   - question: ¿Quién diseñó el legendario Crystal Palace de 1851?
     options:

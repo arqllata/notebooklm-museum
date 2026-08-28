@@ -4,7 +4,7 @@ title: "09. Fauvismo"
 description: El fauvismo fue la primera vanguardia artística del siglo XX (aprox. 1904-1908) en Francia, caracterizada por el uso provocativo y subjetivo del color puro, liberado de la descripción realista. Liderado por Henri Matisse, el grupo "fieras" (les fauves) buscaba expresar emociones mediante pinceladas enérgicas y formas simplificadas, rompiendo con el impresionismo y el academicismo.
 category: Entre Guerras
 imageUrl: /uploads/vargas-de-la-llata-francisco.-la-danza.jpg
-audioUrl: /uploads/vargas-de-la-llata.-francisco-notebooklm.-la-rebelion-de-las-fieras-del-color.mp3
+audioUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/audio/vargas-de-la-llata.-francisco-notebooklm.-la-rebelion-de-las-fieras-del-color.mp3
 takeaways:
   - Vanguardia francesa liderada por Henri Matisse y André Derain de corta duración pero inmenso impacto.
   - "Bautizados peyorativamente como 'fauves' (fieras) por el crítico Louis Vauxcelles debido a la 'salvajada' de sus colores vivos frente a una escultura clásica."

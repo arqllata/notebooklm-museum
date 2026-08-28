@@ -7,7 +7,7 @@ description: "El muro masivo en la escuela pública: Historia, etnicidad,
   social en América."
 category: Entre Guerras
 imageUrl: /uploads/siqueiros.png
-audioUrl: /uploads/vargas-de-la-llata-francisco-notebookm.-el-muralismo-mexicano-como-sistema-operativo.mp3
+audioUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/audio/vargas-de-la-llata-francisco-notebookm.-el-muralismo-mexicano-como-sistema-operativo.mp3
 takeaways:
   - Poderosísimo movimiento pictórico fuertemente narrativo o alegórico masivo
     que inicio oficialmente alrededor de 1921 bajo encargo explícito educativo
@@ -31,7 +31,7 @@ takeaways:
 gallery:
   - image: https://images.unsplash.com/photo-1548235882-6fdb9c1b48d2?q=80&w=800
 infographicUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-muralismo-mexicano-02.png
-classNotesUrl: /uploads/unidad-tematica-el-muralismo-mexicano.pdf
+classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/unidad-tematica-el-muralismo-mexicano.pdf
 quiz:
   - question: ¿A quiénes integraban el legendario colectivo invencible continental
       conocido hoy por los libros mundiales como "Los Tres Grandes" maestros

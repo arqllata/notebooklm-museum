@@ -5,7 +5,7 @@ description: "El grito del alma humana: distorsión, angustia y el color de las
   emociones crudas."
 category: Pre Guerras
 imageUrl: /uploads/img_2392.png
-audioUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-del-expresionismo-a-tu-pantalla-tactil.mp3
+audioUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/audio/vargas-de-la-llata-francisco-notebooklm.-del-expresionismo-a-tu-pantalla-tactil.mp3
 takeaways:
   - Movimiento principalmente alemán y austriaco de principios del siglo XX
     (aprox. 1905).

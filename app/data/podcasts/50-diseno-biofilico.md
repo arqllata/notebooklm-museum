@@ -7,7 +7,7 @@ description: La reconciliación vital e instintiva del gris y artificial mundo
   naturaleza planetaria.
 category: Post Guerras
 imageUrl: /uploads/portada-biofilico.png
-audioUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-por-que-el-diseno-biofilico-nos-sana.mp3
+audioUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/audio/vargas-de-la-llata-francisco-notebooklm.-por-que-el-diseno-biofilico-nos-sana.mp3
 takeaways:
   - Responde masiva y psíquicamente al agotador estrés alienante gris mecánico
     urbano tóxico con una inmersión restaurativa urgente verde de la milenaria
@@ -32,7 +32,7 @@ gallery:
   - image: /uploads/safdie-moshe.-habitat-67.jpg
   - image: /uploads/wonderwoods_tower1_vertical-forest-designed-by-stefano-boeri-architetti_3-scaled-1.jpg
 infographicUrl: /uploads/vargas-de-la-llata-francisco.-diseno-biofilico.png
-classNotesUrl: /uploads/unidad-tematica-diseno-biofilico.pdf
+classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/unidad-tematica-diseno-biofilico.pdf
 quiz:
   - question: ¿El objetivo principal masivo vital reconfortante inmersivo instintivo
       fundamental y profundo psíquico global o biomédico y estético del Diseño

@@ -1,6 +1,6 @@
 ---
-id: "22"
-title: "22. Surrealismo"
+date: 2026-09-05T19:13:56.000-06:00
+title: 22. Surrealismo
 description: "El dictado automático de la mente: sueños lúcidos, psicoanálisis y
   el misterio por encima de la vigilia cotidiana."
 category: Entre Guerras
@@ -26,20 +26,7 @@ gallery:
   - image: /uploads/khalo-frida.-frida-y-la-cesarea-1931.png
   - image: /uploads/savini-alberto.-souvenir-d-enfance-a-athenes.-1930.png
 infographicUrl: /uploads/vargas-de-la-llata-francisco.-surrealismo.png
-faq:
-  - question: ¿Por qué el estilo de pintar Dalí es tan hiperrealista tradicional
-      (fotorrealismo y perspectiva matemática perfecta) al mismo tiempo que es
-      tan extrañamente absurdo y disparatado para un movimiento innovador
-      vanguardista?
-    answer: Eso era precisamente el método de Dalí que lo volvió tan comercial e
-      icónico ('El método paranoico-crítico'). Su propósito artístico principal
-      era convertir lo irracional en imágenes ultra convincentes al ojo
-      observador, de la misma forma nítida, sólida e hiperreal como nosotros
-      experimentamos un sueño profundamente extraño cuando estamos dormidos y la
-      irrealidad que vivimos dentro nos parece incuestionable empíricamente.
-      Esto contrastaba fuertemente con métodos de manchas abstractas
-      irracionales (automatismos de Joan Miró) que carecían de figuras
-      reconocibles por el observador diurno.
+classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/capitulo-21-surrealismo.docx
 quiz:
   - question: ¿El método o juego colectivo en que los escritores o pintores
       surrealistas hacían participar a varias personas para armar una frase o
@@ -61,4 +48,19 @@ quiz:
       - option: Lola Álvarez Bravo
       - option: Remedios Varo
     correctAnswer: 0
+faq:
+  - question: ¿Por qué el estilo de pintar Dalí es tan hiperrealista tradicional
+      (fotorrealismo y perspectiva matemática perfecta) al mismo tiempo que es
+      tan extrañamente absurdo y disparatado para un movimiento innovador
+      vanguardista?
+    answer: Eso era precisamente el método de Dalí que lo volvió tan comercial e
+      icónico ('El método paranoico-crítico'). Su propósito artístico principal
+      era convertir lo irracional en imágenes ultra convincentes al ojo
+      observador, de la misma forma nítida, sólida e hiperreal como nosotros
+      experimentamos un sueño profundamente extraño cuando estamos dormidos y la
+      irrealidad que vivimos dentro nos parece incuestionable empíricamente.
+      Esto contrastaba fuertemente con métodos de manchas abstractas
+      irracionales (automatismos de Joan Miró) que carecían de figuras
+      reconocibles por el observador diurno.
+id: "22"
 ---

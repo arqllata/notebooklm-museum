@@ -1,7 +1,6 @@
 ---
-id: "23"
-date: 2026-04-07T00:16:00.000-06:00
-title: "23. Muralismo Mexicano"
+date: 2026-09-05T19:13:56.000-06:00
+title: 23. Muralismo Mexicano
 description: "El muro masivo en la escuela pública: Historia, etnicidad,
   opresión y liberación en frescos titánicos narrativos mexicanos al frente
   social en América."
@@ -31,7 +30,7 @@ takeaways:
 gallery:
   - image: https://images.unsplash.com/photo-1548235882-6fdb9c1b48d2?q=80&w=800
 infographicUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-muralismo-mexicano-02.png
-classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/unidad-tematica-el-muralismo-mexicano.pdf
+classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/capitulo-22-muralismo-mexicano.docx
 quiz:
   - question: ¿A quiénes integraban el legendario colectivo invencible continental
       conocido hoy por los libros mundiales como "Los Tres Grandes" maestros
@@ -75,4 +74,5 @@ faq:
       social en Norteamérica y posteriormente replicado popular por influencias
       sudamericanas mundiales globales generalizadas universalmente inspirando
       el grafitti o pintura pop monumental y arte callejero.
+id: "23"
 ---

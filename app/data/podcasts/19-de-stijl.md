@@ -1,6 +1,6 @@
 ---
-date: 2026-04-12T18:28:00.000-06:00
-title: "19. De Stijl"
+date: 2026-09-05T19:13:56.000-06:00
+title: 19. De Stijl
 description: La búsqueda de la armonía universal a través de la abstracción
   pura, colores primarios y líneas rectas.
 category: Vanguardias
@@ -24,7 +24,7 @@ gallery:
   - image: /uploads/d23abe83ad85095ae7afc6b180bb3ae3.jpg
   - image: /uploads/metalocus_mondrian_de_stijl_mncars_08.webp
 infographicUrl: /uploads/vargas-de-la-llata-francisco.-de-stijl-02.png
-classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/unidad-tematica-de-stijl.pdf
+classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/capitulo-18-de-stijl.docx
 quiz:
   - question: ¿Qué colores puros permitía usar la teoría del Neoplasticismo?
     options:

@@ -1,6 +1,6 @@
 ---
-id: "16"
-title: "16. Dadaísmo"
+date: 2026-09-05T19:13:56.000-06:00
+title: 16. Dadaísmo
 description: El anti-arte, la burla, la ironía pura y el triunfo del azar sobre
   la razón burguesa.
 category: ENTRE GUERRAS
@@ -31,15 +31,7 @@ gallery:
   - image: /uploads/eof46ihcrrajbjiuapdtl3zj3y.jpg.webp
   - image: /uploads/exploring-dadaism-art-in-the-absurd-composition-gallery-109-1737735895-20002_554x488.jpg
 infographicUrl: /uploads/vargas-de-la-llata-francisco-noteboklm.-dadaismo.png
-faq:
-  - question: ¿Cómo influyó la destrucción dadaísta en el Diseño Gráfico del futuro?
-    answer: Muchísimo. Los dadaístas publicaban fanzines, folletos y pancartas
-      ruidosos, quebrando toda legibilidad o grilla ortogonal seria. Combinaban
-      tipografías de 15 tamaños mezcladas aleatoriamente en cursivas, negritas
-      al revés, con sobre-impresiones caóticas fotográficas de maquinaria,
-      basura o recortes absurdos de publicidades. Esta fue la base ruidosa,
-      espontánea e irónica detrás de la gráfica contracultural posterior (como
-      el Punk Rock de los años 70 en Londres y los pósteres Grunge de los 90).
+classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/capitulo-15-dada.docx
 quiz:
   - question: ¿Qué fue el 'Readymade' (objeto encontrado) más notorio del dadaísmo
       (firmado como R. Mutt en 1917) con el que Marcel Duchamp provocó un
@@ -59,4 +51,14 @@ quiz:
       - option: Deriva del río Danubio situado en Alemania y Austria
       - option: Acrónimo en alemán del Departamento Anti-Arte Danés
     correctAnswer: 1
+faq:
+  - question: ¿Cómo influyó la destrucción dadaísta en el Diseño Gráfico del futuro?
+    answer: Muchísimo. Los dadaístas publicaban fanzines, folletos y pancartas
+      ruidosos, quebrando toda legibilidad o grilla ortogonal seria. Combinaban
+      tipografías de 15 tamaños mezcladas aleatoriamente en cursivas, negritas
+      al revés, con sobre-impresiones caóticas fotográficas de maquinaria,
+      basura o recortes absurdos de publicidades. Esta fue la base ruidosa,
+      espontánea e irónica detrás de la gráfica contracultural posterior (como
+      el Punk Rock de los años 70 en Londres y los pósteres Grunge de los 90).
+id: "16"
 ---

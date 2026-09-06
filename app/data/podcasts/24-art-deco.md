@@ -1,6 +1,6 @@
 ---
-id: "24"
-title: "24. Art Deco"
+date: 2026-09-05T19:13:56.000-06:00
+title: 24. Art Deco
 description: Geometric patterns, bold colors, and the celebration of machinery.
   The style that defined the jazz age skyscrapers.
 category: Entre Guerras
@@ -19,6 +19,22 @@ gallery:
   - image: /uploads/lampika-tamara.-adan-y-eva.jpg
   - image: /uploads/lampika-tamara.-mujeres-banandose.jpg
 infographicUrl: /uploads/vargas-de-la-llata-francisco.-art-deco.png
+classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/capitulo-23-art-deco.docx
+quiz:
+  - question: ¿Cuál es una característica visual clave del Art Deco?
+    options:
+      - option: Líneas curvas orgánicas y asimetría
+      - option: Formas geométricas y patrones en zigzag
+      - option: Colores pasteles y decoración floral suave
+      - option: Uso exclusivo de madera rústica
+    correctAnswer: 1
+  - question: ¿Qué evento histórico marcó el auge de este estilo?
+    options:
+      - option: La Revolución Industrial del s. XIX
+      - option: Los 'Roaring Twenties' (Años 20)
+      - option: La caída del Muro de Berlín
+      - option: El Renacimiento Italiano
+    correctAnswer: 1
 faq:
   - question: ¿Cuándo y dónde inició el movimiento Art Deco?
     answer: El Art Deco surgió en París a principios de los años 20 (1920s),
@@ -67,19 +83,5 @@ faq:
     answer: "Contrastes fuertes: Negro y Oro, Plata y Negro. También colores
       brillantes y metálicos, o combinaciones audaces como rojo y negro. Nada de
       los pasteles suaves del estilo anterior."
-quiz:
-  - question: ¿Cuál es una característica visual clave del Art Deco?
-    options:
-      - option: Líneas curvas orgánicas y asimetría
-      - option: Formas geométricas y patrones en zigzag
-      - option: Colores pasteles y decoración floral suave
-      - option: Uso exclusivo de madera rústica
-    correctAnswer: 1
-  - question: ¿Qué evento histórico marcó el auge de este estilo?
-    options:
-      - option: La Revolución Industrial del s. XIX
-      - option: Los 'Roaring Twenties' (Años 20)
-      - option: La caída del Muro de Berlín
-      - option: El Renacimiento Italiano
-    correctAnswer: 1
+id: "24"
 ---

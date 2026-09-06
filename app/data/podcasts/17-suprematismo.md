@@ -1,6 +1,6 @@
 ---
-id: "17"
-title: "17. Suprematismo"
+date: 2026-09-05T19:13:56.000-06:00
+title: 17. Suprematismo
 description: "El grado cero de la pintura: la supremacía espiritual del color y
   la figura abstracta pura flotando sobre el espacio blanco de la nada."
 category: Entre Guerras
@@ -29,20 +29,7 @@ gallery:
   - image: /uploads/rozanova-olga.-suprematismo-1916-.jpg
   - image: /uploads/imagen-2.jpg
 infographicUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-suprematismo-2.png
-faq:
-  - question: ¿Por qué se consideraron subversivos a estos cuadrados negros pintados
-      al principio por el Estado central Soviético que los apoyaban en origen de
-      propaganda?
-    answer: Porque a medida que la Revolución Rusa avanzó, la propaganda utilitaria
-      del nuevo Estado comunista autoritario necesitaba imperiosamente obras de
-      cartelismo gráfico narrativo obvio ('¡Trabaja en la fábrica al sol
-      camarada!') directamente educador e instantáneamente legible por los
-      millones de de labradores campesinos que no sabían leer tipografía; y los
-      abstractos cuadrados oscuros voladores filosóficos del purismo
-      suprematista incomunicable de Malévich no aportaban nada a esa imperiosa y
-      urgente finalidad realista propagandística, llevándolo rápidamente después
-      a su inminente ocaso oficial bajo el crudo y plano realismo socialista
-      estatal impuesto forzadamente en años soviéticos del estalinismo.
+classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/capitulo-16-suprematismo.docx
 quiz:
   - question: ¿Cual de las siguientes formas geométricas planas es la más importante
       en todo el catálogo o 'repertorio supremo e incuestionable' del genio
@@ -58,4 +45,19 @@ quiz:
       - option: Una luna plana y completamente oscura eclipsada tras rombos multicolores
           rojos violentos y abstractos
     correctAnswer: 1
+faq:
+  - question: ¿Por qué se consideraron subversivos a estos cuadrados negros pintados
+      al principio por el Estado central Soviético que los apoyaban en origen de
+      propaganda?
+    answer: Porque a medida que la Revolución Rusa avanzó, la propaganda utilitaria
+      del nuevo Estado comunista autoritario necesitaba imperiosamente obras de
+      cartelismo gráfico narrativo obvio ('¡Trabaja en la fábrica al sol
+      camarada!') directamente educador e instantáneamente legible por los
+      millones de de labradores campesinos que no sabían leer tipografía; y los
+      abstractos cuadrados oscuros voladores filosóficos del purismo
+      suprematista incomunicable de Malévich no aportaban nada a esa imperiosa y
+      urgente finalidad realista propagandística, llevándolo rápidamente después
+      a su inminente ocaso oficial bajo el crudo y plano realismo socialista
+      estatal impuesto forzadamente en años soviéticos del estalinismo.
+id: "17"
 ---

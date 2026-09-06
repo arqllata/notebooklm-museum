@@ -1,6 +1,6 @@
 ---
-date: 2026-04-13T11:27:00.000-06:00
-title: "18. Constructivismo"
+date: 2026-09-05T19:13:56.000-06:00
+title: 18. Constructivismo
 description: "El arte al servicio de la revolución: fotomontajes, tipografía
   asimétrica y diseño industrial para las masas."
 category: Vanguardias
@@ -24,7 +24,7 @@ gallery:
   - image: /uploads/cms_images/tatlin_-vladimir-evgrafovich-_1885_1953_-467x500.jpg
   - image: /uploads/cms_images/stepanova.jpeg
 infographicUrl: /uploads/cms_images/vargas-de-la-llta-francisco.-constructivismo-ruso.png
-classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/unidad-didactica-constructivismo-ruso.pdf
+classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/capitulo-17-constructivismo.docx
 quiz:
   - question: ¿Cuál era la visión que tenían los constructivistas sobre el rol del
       artista?

@@ -17,7 +17,7 @@ collections:
     summary: "{{title}}"
     fields:
 
-      - {label: "Fecha", name: "date", widget: "datetime"}
+      - {label: "Fecha", name: "date", widget: "datetime", default: ""}
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Descripción", name: "description", widget: "text"}
       - {label: "Categoría", name: "category", widget: "string", default: "Design"}

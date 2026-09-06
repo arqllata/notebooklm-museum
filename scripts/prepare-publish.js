@@ -52,15 +52,56 @@ processDirectory(cmsImagesDir);
 const audioFiles = fs.readdirSync(mediaAudioDir).filter(f => !fs.statSync(path.join(mediaAudioDir, f)).isDirectory());
 const docFiles = fs.readdirSync(mediaDocsDir).filter(f => !fs.statSync(path.join(mediaDocsDir, f)).isDirectory());
 
+// Helper to generate ISO string with local timezone offset
+function getLocalISOString() {
+  const now = new Date();
+  const offsetMin = now.getTimezoneOffset();
+  const sign = offsetMin <= 0 ? '+' : '-';
+  const absMin = Math.abs(offsetMin);
+  const hours = String(Math.floor(absMin / 60)).padStart(2, '0');
+  const minutes = String(absMin % 60).padStart(2, '0');
+  const tzOffset = `${sign}${hours}:${minutes}`;
+
+  const year = now.getFullYear();
+  const month = String(now.getMonth() + 1).padStart(2, '0');
+  const day = String(now.getDate()).padStart(2, '0');
+  const hour = String(now.getHours()).padStart(2, '0');
+  const min = String(now.getMinutes()).padStart(2, '0');
+  const sec = String(now.getSeconds()).padStart(2, '0');
+
+  return `${year}-${month}-${day}T${hour}:${min}:${sec}.000${tzOffset}`;
+}
+
+// Find markdown files that have uncommitted git changes or were recently touched
+function getModifiedMarkdownFiles() {
+  const { execSync } = require('child_process');
+  const files = new Set();
+  try {
+    const statusOut = execSync('git status --porcelain "app/data/podcasts/*.md"', { encoding: 'utf8' });
+    const lines = statusOut.split('\n').filter(Boolean);
+    for (const line of lines) {
+      const match = line.slice(3).trim();
+      if (match.endsWith('.md')) {
+        files.add(path.basename(match));
+      }
+    }
+  } catch (e) {
+    // Ignore git status errors
+  }
+  return files;
+}
+
 // 3. Scan and rewrite markdown files
 if (fs.existsSync(podcastsDir)) {
   const mdFiles = fs.readdirSync(podcastsDir).filter(f => f.endsWith('.md'));
+  const modifiedInGit = getModifiedMarkdownFiles();
   let updatedCount = 0;
 
   for (const mdFile of mdFiles) {
     const mdPath = path.join(podcastsDir, mdFile);
     let content = fs.readFileSync(mdPath, 'utf8');
     let hasChanges = false;
+    const isModified = modifiedInGit.has(mdFile);
 
     // Rewrite cdn.jsdelivr.net references back to raw.githubusercontent.com due to jsDelivr's 20MB limit
     const rawHost = 'https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/';
@@ -104,10 +145,23 @@ if (fs.existsSync(podcastsDir)) {
       }
     }
 
+    // Auto-update date and clock if the file was modified in Git or has newly linked assets
+    if (isModified || hasChanges) {
+      const currentTimestamp = getLocalISOString();
+      if (/^date:\s*.+$/m.test(content)) {
+        content = content.replace(/^date:\s*.+$/m, `date: ${currentTimestamp}`);
+      } else {
+        // Insert after initial '---'
+        content = content.replace(/^---\s*\n/, `---\ndate: ${currentTimestamp}\n`);
+      }
+      hasChanges = true;
+      console.log(`Auto-updated clock & date for: ${mdFile} -> ${currentTimestamp}`);
+    }
+
     if (hasChanges) {
       fs.writeFileSync(mdPath, content, 'utf8');
       updatedCount++;
-      console.log(`Updated markdown links in: ${mdFile}`);
+      console.log(`Updated: ${mdFile}`);
     }
   }
   console.log(`Link rewriting complete! Updated ${updatedCount} markdown files.`);

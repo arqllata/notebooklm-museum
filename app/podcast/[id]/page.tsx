@@ -70,16 +70,30 @@ export default async function PodcastPage({ params }: PageProps) {
                                 {podcast.title}
                             </h1>
 
-                            <div className="flex items-center gap-6 text-sm text-gray-400 font-mono mb-8">
-                                <div className="flex items-center gap-2">
-                                    <Clock size={16} />
-                                    <span>15 min</span> {/* Placeholder */}
-                                </div>
-                                <div className="flex items-center gap-2">
-                                    <Calendar size={16} />
-                                    <span>2024</span> {/* Placeholder */}
-                                </div>
-                            </div>
+                            {/* Real Date & Time */}
+                            {(() => {
+                                const podcastDate = podcast.date ? new Date(podcast.date) : null;
+                                const hasValidDate = podcastDate && !isNaN(podcastDate.getTime());
+                                const formattedDate = hasValidDate
+                                    ? podcastDate.toLocaleDateString('es-MX', { day: 'numeric', month: 'short', year: 'numeric' })
+                                    : '2026';
+                                const formattedTime = hasValidDate
+                                    ? podcastDate.toLocaleTimeString('es-MX', { hour: '2-digit', minute: '2-digit', hour12: true })
+                                    : '15 min';
+
+                                return (
+                                    <div className="flex items-center gap-6 text-sm text-gray-400 font-mono mb-8">
+                                        <div className="flex items-center gap-2" title="Hora de publicación">
+                                            <Clock size={16} />
+                                            <span>{formattedTime}</span>
+                                        </div>
+                                        <div className="flex items-center gap-2" title="Fecha de publicación">
+                                            <Calendar size={16} />
+                                            <span>{formattedDate}</span>
+                                        </div>
+                                    </div>
+                                );
+                            })()}
                         </div>
                     </div>
                 </div>

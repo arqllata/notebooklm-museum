@@ -1,6 +1,6 @@
 ---
-id: "15"
-title: "15. Expresionismo"
+date: 2026-09-05T18:46:00.000-06:00
+title: 15. Expresionismo
 description: "El grito del alma humana: distorsión, angustia y el color de las
   emociones crudas."
 category: Pre Guerras
@@ -21,21 +21,7 @@ takeaways:
 gallery:
   - image: https://images.unsplash.com/photo-1543857778-c4a1a3e0b2eb?q=80&w=800
 infographicUrl: /uploads/vargas-de-la-llata-francisco.-impresionismo.png
-faq:
-  - question: ¿Cómo influyó el Expresionismo en el cine?
-    answer: Fue crucial. Tras la 1ra Guerra Mundial, los estudios de cine alemanes
-      (UFA) adoptaron los escenarios angulados, el maquillaje extremo y sobre
-      todo el uso dramático de luces y sombras pintadas (claroscuro). Obras como
-      'Nosferatu' o 'Metrópolis' derivan directamente de este arte gráfico,
-      sentando a su vez las bases del posterior Cine Negro (Film Noir) en EE.UU
-      y el género de terror.
-  - question: ¿Qué figuras destacaron en El Jinete Azul y qué buscaban?
-    answer: Der Blaue Reiter estaba liderado por Wassily Kandinsky y Franz Marc. A
-      diferencia de 'El Puente' (que pintaba la crudeza escabrosa de la ciudad
-      urbana), ellos buscaban la espiritualidad en el arte. Sentían que ciertos
-      colores correspondían a sonidos musicales. Esta búsqueda de la emoción a
-      través de formas puras llevó a Kandinsky a inventar totalmente la Pintura
-      Abstracta (no figurativa).
+classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/capitulo-14-expresionismo.docx
 quiz:
   - question: ¿Qué famosa pintura del noruego Edvard Munch, pintada en 1893, se
       considera el precursor espiritual y cumbre del Expresionismo?
@@ -54,4 +40,20 @@ quiz:
       - option: Alfred Hitchcock
       - option: F. W. Murnau
     correctAnswer: 1
+faq:
+  - question: ¿Cómo influyó el Expresionismo en el cine?
+    answer: Fue crucial. Tras la 1ra Guerra Mundial, los estudios de cine alemanes
+      (UFA) adoptaron los escenarios angulados, el maquillaje extremo y sobre
+      todo el uso dramático de luces y sombras pintadas (claroscuro). Obras como
+      'Nosferatu' o 'Metrópolis' derivan directamente de este arte gráfico,
+      sentando a su vez las bases del posterior Cine Negro (Film Noir) en EE.UU
+      y el género de terror.
+  - question: ¿Qué figuras destacaron en El Jinete Azul y qué buscaban?
+    answer: Der Blaue Reiter estaba liderado por Wassily Kandinsky y Franz Marc. A
+      diferencia de 'El Puente' (que pintaba la crudeza escabrosa de la ciudad
+      urbana), ellos buscaban la espiritualidad en el arte. Sentían que ciertos
+      colores correspondían a sonidos musicales. Esta búsqueda de la emoción a
+      través de formas puras llevó a Kandinsky a inventar totalmente la Pintura
+      Abstracta (no figurativa).
+id: "15"
 ---

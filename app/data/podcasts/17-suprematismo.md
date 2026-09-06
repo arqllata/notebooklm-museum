@@ -22,12 +22,12 @@ takeaways:
     agigantádamente a gran velocidad intermóvil sobre universales fondos blancos
     ilimitados del firmamento espacial y filosófico ruso.
 gallery:
-  - /uploads/malevich-kazimir.-cuadrado-negro-1915-.jpg
-  - /uploads/malevich-kazimir.-cuadrado-rojo-1915-.jpg
-  - /uploads/malevich-kazimir.-cruz-negra-1923-.jpg
-  - /uploads/suprematism-art-movement.jpg
-  - /uploads/rozanova-olga.-suprematismo-1916-.jpg
-  - /uploads/imagen-2.jpg
+  - image: /uploads/malevich-kazimir.-cuadrado-negro-1915-.jpg
+  - image: /uploads/malevich-kazimir.-cuadrado-rojo-1915-.jpg
+  - image: /uploads/malevich-kazimir.-cruz-negra-1923-.jpg
+  - image: /uploads/suprematism-art-movement.jpg
+  - image: /uploads/rozanova-olga.-suprematismo-1916-.jpg
+  - image: /uploads/imagen-2.jpg
 infographicUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-suprematismo-2.png
 faq:
   - question: ¿Por qué se consideraron subversivos a estos cuadrados negros pintados

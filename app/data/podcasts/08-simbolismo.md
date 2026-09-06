@@ -1,6 +1,6 @@
 ---
-id: "08"
-title: "08. Simbolismo"
+date: 2026-09-05T18:40:00.000-06:00
+title: 08. Simbolismo
 description: El arte de los sueños, los mitos, la noche y los misterios del alma oculta.
 category: Pre Guerras
 imageUrl: /uploads/581c4545-0689-4cfe-ad70-40e2896c6a8a.jpg
@@ -17,26 +17,14 @@ takeaways:
   - "Artistas clave: Gustave Moreau, Odilon Redon, Arnold Böcklin (y en un
     sentido amplio, Gustav Klimt)."
 gallery:
-  - /uploads/falero-luis-ricardo.-brujas-yendo-al-sabbath.jpg
-  - /uploads/munch-edward.-madonna.webp
-  - /uploads/moreau-gustave.-la-aparicion.jpg
-  - /uploads/pellizza-da-volpedo-guiseppe.-el-sol-naciente.jpg
-  - /uploads/egusquiza-rogelio-de.-tristan-e-isolda.jpg
-  - /uploads/redon-odilon.-la-arana-llorando.png
+  - image: /uploads/falero-luis-ricardo.-brujas-yendo-al-sabbath.jpg
+  - image: /uploads/munch-edward.-madonna.webp
+  - image: /uploads/moreau-gustave.-la-aparicion.jpg
+  - image: /uploads/pellizza-da-volpedo-guiseppe.-el-sol-naciente.jpg
+  - image: /uploads/egusquiza-rogelio-de.-tristan-e-isolda.jpg
+  - image: /uploads/redon-odilon.-la-arana-llorando.png
 infographicUrl: /uploads/vargas-de-la-llata-francisco-notebooklm-simbolismo.png
-faq:
-  - question: ¿Por qué el Simbolismo estaba tan obsesionado con los monstruos y lo
-      oscuro?
-    answer: A finales del siglo XIX existía un sentimiento llamado 'Fin de Siècle'
-      (Fin de Siglo), marcado por ansiedad, pesimismo sobre el futuro europeo,
-      decadentismo y un rechazo a la sociedad materialista e hiper-científica.
-      Lo irracional y lo monstruoso eran escapes psicológicos a un mundo que se
-      consideraba falto de misterio.
-  - question: ¿Cómo se relaciona el Simbolismo con lo que pasaría después en el siglo XX?
-    answer: Fueron los precursores espirituales directos del Surrealismo y del
-      Expresionismo. La idea de que el arte deba explorar primero el
-      subconsciente y la psique antes que el mundo exterior es una semilla
-      puramente simbolista que Freud y Dalí llevarían al límite décadas después.
+classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/capitulo-8-simbolismo.docx
 quiz:
   - question: ¿En lugar de pintar la realidad objetiva o la luz, qué buscaban
       representar los artistas del Simbolismo?
@@ -54,4 +42,18 @@ quiz:
       - option: El Rococo
       - option: La Bauhaus
     correctAnswer: 0
+faq:
+  - question: ¿Por qué el Simbolismo estaba tan obsesionado con los monstruos y lo
+      oscuro?
+    answer: A finales del siglo XIX existía un sentimiento llamado 'Fin de Siècle'
+      (Fin de Siglo), marcado por ansiedad, pesimismo sobre el futuro europeo,
+      decadentismo y un rechazo a la sociedad materialista e hiper-científica.
+      Lo irracional y lo monstruoso eran escapes psicológicos a un mundo que se
+      consideraba falto de misterio.
+  - question: ¿Cómo se relaciona el Simbolismo con lo que pasaría después en el siglo XX?
+    answer: Fueron los precursores espirituales directos del Surrealismo y del
+      Expresionismo. La idea de que el arte deba explorar primero el
+      subconsciente y la psique antes que el mundo exterior es una semilla
+      puramente simbolista que Freud y Dalí llevarían al límite décadas después.
+id: "08"
 ---

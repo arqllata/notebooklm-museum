@@ -1,6 +1,6 @@
 ---
-id: "05"
-title: "05. Japonismo"
+date: 2026-09-05T18:37:00.000-06:00
+title: 05. Japonismo
 description: La fascinación europea por el arte oriental que transformó la
   composición occidental.
 category: Pre Guerras
@@ -19,25 +19,14 @@ takeaways:
     y el Art Nouveau.
 gallery:
   - image: https://images.unsplash.com/photo-1528151970222-3864555db1da?q=80&w=800
-  - /uploads/breitner-george-1894-chica-en-kimono-blanco.jpeg
-  - /uploads/monet-claude.-1875-madame-monet-en-traje-japones.webp
-  - /uploads/jinghe-gustave-leonard.-1865-el-abanico-japones.jpg
-  - /uploads/japo2-644x362.jpg
-  - /uploads/hokusai-katsushika-la-gran-ola-de-kanagawua.webp
-  - /uploads/stevens-alfred.-1872-a-parisina-japonesa.jpg
+  - image: /uploads/breitner-george-1894-chica-en-kimono-blanco.jpeg
+  - image: /uploads/monet-claude.-1875-madame-monet-en-traje-japones.webp
+  - image: /uploads/jinghe-gustave-leonard.-1865-el-abanico-japones.jpg
+  - image: /uploads/japo2-644x362.jpg
+  - image: /uploads/hokusai-katsushika-la-gran-ola-de-kanagawua.webp
+  - image: /uploads/stevens-alfred.-1872-a-parisina-japonesa.jpg
 infographicUrl: /uploads/vargas-de-la-llata-francisco.-japonismo.png
-faq:
-  - question: ¿Eran caros los grabados japoneses que inspiraron a los europeos?
-    answer: ¡Irónicamente, no! Los grabados Ukiyo-e eran arte popular y masivo en
-      Japón. Llegaron a París muchas veces como simples papeles para envolver
-      tazas o porcelana importada. Cuando los artistas franceses los vieron y
-      los plancharon, descubrieron obras de arte formidables y empezaron a
-      coleccionarlos de forma asequible.
-  - question: ¿Qué artista famoso pintó copias literales de grabados japoneses?
-    answer: Vincent van Gogh. Él era un fanático obsesivo del Japonismo. Llegó a
-      calcar y copiar en óleo obras pictóricas japonesas (como 'El ciruelo en
-      flor' de Hiroshige), lo que transformó totalmente su uso del perfilado
-      oscuro y los fondos planos de colores brillantes.
+classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/capitulo-5-japonismo.docx
 quiz:
   - question: ¿Qué tipo de arte japonés específico causó un gran impacto en pintores
       como Van Gogh y Monet?
@@ -55,4 +44,17 @@ quiz:
       - option: El uso rudo de las sombras y el claroscuro
       - option: Zonas planas de color sin modelado tridimensional ni sombras
     correctAnswer: 3
+faq:
+  - question: ¿Eran caros los grabados japoneses que inspiraron a los europeos?
+    answer: ¡Irónicamente, no! Los grabados Ukiyo-e eran arte popular y masivo en
+      Japón. Llegaron a París muchas veces como simples papeles para envolver
+      tazas o porcelana importada. Cuando los artistas franceses los vieron y
+      los plancharon, descubrieron obras de arte formidables y empezaron a
+      coleccionarlos de forma asequible.
+  - question: ¿Qué artista famoso pintó copias literales de grabados japoneses?
+    answer: Vincent van Gogh. Él era un fanático obsesivo del Japonismo. Llegó a
+      calcar y copiar en óleo obras pictóricas japonesas (como 'El ciruelo en
+      flor' de Hiroshige), lo que transformó totalmente su uso del perfilado
+      oscuro y los fondos planos de colores brillantes.
+id: "05"
 ---

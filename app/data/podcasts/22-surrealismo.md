@@ -20,11 +20,11 @@ takeaways:
     pictórico soñador, y Luis Buñuel transportó toda esa imaginería poética al
     lenguaje cinematográfico.
 gallery:
-  - /uploads/ray-man.-ingress-violin.-1924.png
-  - /uploads/dali-02.png
-  - /uploads/magrite.jpg
-  - /uploads/khalo-frida.-frida-y-la-cesarea-1931.png
-  - /uploads/savini-alberto.-souvenir-d-enfance-a-athenes.-1930.png
+  - image: /uploads/ray-man.-ingress-violin.-1924.png
+  - image: /uploads/dali-02.png
+  - image: /uploads/magrite.jpg
+  - image: /uploads/khalo-frida.-frida-y-la-cesarea-1931.png
+  - image: /uploads/savini-alberto.-souvenir-d-enfance-a-athenes.-1930.png
 infographicUrl: /uploads/vargas-de-la-llata-francisco.-surrealismo.png
 faq:
   - question: ¿Por qué el estilo de pintar Dalí es tan hiperrealista tradicional

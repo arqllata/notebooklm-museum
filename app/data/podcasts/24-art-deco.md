@@ -15,9 +15,9 @@ takeaways:
   - Combinó estilos antiguos (egipcio, azteca) con la estética de la máquina.
   - Representó el lujo y el glamour de los 'Felices Años 20'.
 gallery:
-  - /uploads/lampika-tamara.-mujer.jpg
-  - /uploads/lampika-tamara.-adan-y-eva.jpg
-  - /uploads/lampika-tamara.-mujeres-banandose.jpg
+  - image: /uploads/lampika-tamara.-mujer.jpg
+  - image: /uploads/lampika-tamara.-adan-y-eva.jpg
+  - image: /uploads/lampika-tamara.-mujeres-banandose.jpg
 infographicUrl: /uploads/vargas-de-la-llata-francisco.-art-deco.png
 faq:
   - question: ¿Cuándo y dónde inició el movimiento Art Deco?

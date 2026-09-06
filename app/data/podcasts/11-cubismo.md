@@ -1,6 +1,6 @@
 ---
-id: "11"
-title: "11. Cubismo"
+date: 2026-09-05T18:41:00.000-06:00
+title: 11. Cubismo
 description: "La fragmentación de la realidad: múltiples perspectivas en un solo
   plano pictórico."
 category: Entre Guerras
@@ -21,19 +21,11 @@ takeaways:
     aplanamiento del formato visual.
 gallery:
   - image: https://images.unsplash.com/photo-1541888086055-667468132ca5?q=80&w=800
-  - /uploads/cubismo-analitico-muchacha-con-mandolina.jpg
-  - /uploads/img_0003.jpg
-  - /uploads/cubismo-sintetico.jpg
+  - image: /uploads/cubismo-analitico-muchacha-con-mandolina.jpg
+  - image: /uploads/img_0003.jpg
+  - image: /uploads/cubismo-sintetico.jpg
 infographicUrl: /uploads/vargas-de-la-llata-francisco.-cubismo.png
-faq:
-  - question: ¿Cómo se inventó el Collage y qué impacto tuvo?
-    answer: Durante la fase del Cubismo Sintético (1912), cansado de pintar
-      ilusiones de texturas de madera, Braque literalmente pegó un papel tapiz
-      barato con estampado de madera directo al lienzo y dibujó carbón encima
-      ('Frutero y vaso'). Esto rompió para siempre la norma de qué 'materiales'
-      eran aceptables en el arte sagrado (óleo sobre tela) e introdujo objetos
-      de la vida diaria al cuadro (recortes de diario, boletos de tren, arena).
-      Esto cimentó el camino para el diseño gráfico multimedia del siglo XX.
+classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/capitulo-11-cubismo.docx
 quiz:
   - question: ¿Qué objeto tradicional NO buscaba imitar el Cubismo creando una
       ilusión 3D engañosa en el lienzo?
@@ -52,4 +44,14 @@ quiz:
       - option: El viejo guitarrista ciego
       - option: El puente de Langlois
     correctAnswer: 0
+faq:
+  - question: ¿Cómo se inventó el Collage y qué impacto tuvo?
+    answer: Durante la fase del Cubismo Sintético (1912), cansado de pintar
+      ilusiones de texturas de madera, Braque literalmente pegó un papel tapiz
+      barato con estampado de madera directo al lienzo y dibujó carbón encima
+      ('Frutero y vaso'). Esto rompió para siempre la norma de qué 'materiales'
+      eran aceptables en el arte sagrado (óleo sobre tela) e introdujo objetos
+      de la vida diaria al cuadro (recortes de diario, boletos de tren, arena).
+      Esto cimentó el camino para el diseño gráfico multimedia del siglo XX.
+id: "11"
 ---

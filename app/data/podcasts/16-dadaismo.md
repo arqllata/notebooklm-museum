@@ -24,12 +24,12 @@ takeaways:
     (maestro del fotomontaje político en contra del nazismo)."
 gallery:
   - image: https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=800
-  - /uploads/3qoj26xbj5bcvcyjf27acni6gu.jpg
-  - /uploads/dada-what-is-dadaism-8.jpeg
-  - /uploads/lb2pqbq6orhzhgbpalytqappyi.jpg.webp
-  - /uploads/sb-the-spirit-of-our-time-1919-raoul-hausmann.jpg
-  - /uploads/eof46ihcrrajbjiuapdtl3zj3y.jpg.webp
-  - /uploads/exploring-dadaism-art-in-the-absurd-composition-gallery-109-1737735895-20002_554x488.jpg
+  - image: /uploads/3qoj26xbj5bcvcyjf27acni6gu.jpg
+  - image: /uploads/dada-what-is-dadaism-8.jpeg
+  - image: /uploads/lb2pqbq6orhzhgbpalytqappyi.jpg.webp
+  - image: /uploads/sb-the-spirit-of-our-time-1919-raoul-hausmann.jpg
+  - image: /uploads/eof46ihcrrajbjiuapdtl3zj3y.jpg.webp
+  - image: /uploads/exploring-dadaism-art-in-the-absurd-composition-gallery-109-1737735895-20002_554x488.jpg
 infographicUrl: /uploads/vargas-de-la-llata-francisco-noteboklm.-dadaismo.png
 faq:
   - question: ¿Cómo influyó la destrucción dadaísta en el Diseño Gráfico del futuro?

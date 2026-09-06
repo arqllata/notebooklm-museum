@@ -13,7 +13,7 @@ takeaways:
   - Influyó a todas las vanguardias del siglo XX al demostrar que el lienzo y la pintura tenían autonomía sobre la realidad.
 gallery:
   - image: https://images.unsplash.com/photo-1579762715459-5a068c289fda?q=80&w=800
-  - /uploads/vargas-de-la-llata-francisco.-la-danza.jpg
+  - image: /uploads/vargas-de-la-llata-francisco.-la-danza.jpg
 infographicUrl: /uploads/vargas-de-la-llata-francisco.-fauvismo.png
 faq:
   - question: ¿Qué significa exactamente la palabra Fauvismo?

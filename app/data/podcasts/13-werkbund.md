@@ -1,6 +1,6 @@
 ---
-id: "13"
-title: "13. Werkbund"
+date: 2026-09-05T18:42:00.000-06:00
+title: 13. Werkbund
 description: "La antesala de la Bauhaus: la reconciliación pionera entre el
   diseño de calidad, la artesanía y la estandarización industrial masiva."
 category: Pre Guerras
@@ -20,29 +20,13 @@ takeaways:
     exportación mundial (calidad alemana).
 gallery:
   - image: https://images.unsplash.com/photo-1541888086055-667468132ca5?q=80&w=800
-  - /uploads/berhens-peter.-tetera.jpg
-  - /uploads/berhens-peter.aeg-nave-de-turbinas-interior.jpg
-  - /uploads/berhens-peter.aeg-nave-de-turbinas.jpg
-  - /uploads/van-de-velde-henry.-escritorio.png
-  - /uploads/wrekbund.-paket.jpg
+  - image: /uploads/berhens-peter.-tetera.jpg
+  - image: /uploads/berhens-peter.aeg-nave-de-turbinas-interior.jpg
+  - image: /uploads/berhens-peter.aeg-nave-de-turbinas.jpg
+  - image: /uploads/van-de-velde-henry.-escritorio.png
+  - image: /uploads/wrekbund.-paket.jpg
 infographicUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-deutscher-werkbund-1.png
-faq:
-  - question: ¿Cuál era el gran debate ético (Muthesius vs. van de Velde) en la
-      reunión del Werkbund de 1914?
-    answer: Hermann Muthesius (un arquitecto) argumentaba que Alemania necesitaba la
-      Typisierung (o Estandarización / Producción en serie de modelos
-      universales y racionales) para crear cultura global. Por el otro lado,
-      Henry van de Velde (artista) defendía ferozmente la libertad individual e
-      inalienable de expresión del creador (no someterse a patrones fijos de
-      fábrica). Al final, a causa de la guerra, el rumbo de estandarización
-      industrial se impuso.
-  - question: ¿Por qué decimos que la escuela Bauhaus (1919) es hija directa del
-      Deutscher Werkbund (1907)?
-    answer: "Porque todos los pioneros y sus debates estaban allí. De hecho, Walter
-      Gropius, Le Corbusier y Mies van der Rohe trabajaron o aprendieron en el
-      taller de Peter Behrens. Gropius luego tomó las riendas y fundó la Bauhaus
-      como el lugar educativo ideal para ejecutar masivamente lo que el Werkbund
-      teorizaba: Forma y Función con estética de calidad maquinista."
+classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/capitulo-13-werkbund.docx
 quiz:
   - question: ¿Cuál era el objetivo fundacional que unió a fabricantes capitalistas
       y a artistas para crear el Deutscher Werkbund?
@@ -61,4 +45,22 @@ quiz:
       - option: Gerrit Rietveld
       - option: El Lissitzky
     correctAnswer: 0
+faq:
+  - question: ¿Cuál era el gran debate ético (Muthesius vs. van de Velde) en la
+      reunión del Werkbund de 1914?
+    answer: Hermann Muthesius (un arquitecto) argumentaba que Alemania necesitaba la
+      Typisierung (o Estandarización / Producción en serie de modelos
+      universales y racionales) para crear cultura global. Por el otro lado,
+      Henry van de Velde (artista) defendía ferozmente la libertad individual e
+      inalienable de expresión del creador (no someterse a patrones fijos de
+      fábrica). Al final, a causa de la guerra, el rumbo de estandarización
+      industrial se impuso.
+  - question: ¿Por qué decimos que la escuela Bauhaus (1919) es hija directa del
+      Deutscher Werkbund (1907)?
+    answer: "Porque todos los pioneros y sus debates estaban allí. De hecho, Walter
+      Gropius, Le Corbusier y Mies van der Rohe trabajaron o aprendieron en el
+      taller de Peter Behrens. Gropius luego tomó las riendas y fundó la Bauhaus
+      como el lugar educativo ideal para ejecutar masivamente lo que el Werkbund
+      teorizaba: Forma y Función con estética de calidad maquinista."
+id: "13"
 ---

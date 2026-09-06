@@ -9,7 +9,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "panel": "concurrently \"npm run dev\" \"npx decap-server\"",
+    "panel": "node scripts/patch-decap.js && concurrently \"npm run dev\" \"npx decap-server\"",
     "publicar": "node scripts/sanitize-assets.js && node scripts/prepare-publish.js && npm run build && git add . && git commit -m 'Actualización de Museo' && git push origin main"
   },
   "dependencies": {

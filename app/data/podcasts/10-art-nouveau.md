@@ -1,6 +1,6 @@
 ---
-id: "10"
-title: "10. Art Nouveau"
+date: 2026-09-07T22:45:58.000-06:00
+title: 10. Art Nouveau
 description: El látigo orgánico y la estilización de la naturaleza en cada
   rincón arquitectónico al final de la Belle Époque.
 category: Pre Guerras
@@ -22,22 +22,8 @@ takeaways:
     Jugendstil en Alemania y Austria, Stile Liberty en Italia."
 gallery:
   - image: https://images.unsplash.com/photo-1549490349-8643362247b5?q=80&w=800
-faq:
-  - question: ¿Quién fue Alphonse Mucha y por qué definen su estilo al Art Nouveau
-      gráfico?
-    answer: Fue un cartelista y pintor checo en París. Sus pósteres publicitarios de
-      teatro y productos (famosos por retratar muchachas hermosas rodeadas de
-      intrincados motivos florales, marcos circulares y ropajes fluidos que
-      parecen humo o enredaderas) se volvieron tan ubicuos, que al inicio al Art
-      Nouveau se le llamaba simplemente 'El estilo Mucha'.
-  - question: ¿Por qué el Art Nouveau murió tan abruptamente?
-    answer: Por dos razones. Primero, porque de realizar (construir muebles o
-      arquitectura llena de curvas orgánicas irregulares y asimétricas) era
-      carísimo y requería de gran virtuosismo de artesanos y diseñadores.
-      Segundo, tras la sangrienta Primera Guerra Mundial, toda la sociedad entró
-      en un modo de austeridad matemática y funcional. Las curvas femeninas del
-      Art Nouveau pasaron a verse como decoración frívola y burguesa para
-      decantar en la simetría robusta e industrial del Art Deco.
+infographicUrl: /uploads/cms_images/vargas-de-la-llata-francisco-notebooklm-anatomia-global-del-art-nouveau.png
+classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/capitulo-10-art-nouveau.docx
 quiz:
   - question: ¿Qué famosas entradas de tren en París, construidas con hierro verde y
       vidrio que imita ramilletes florales o insectos, fueron diseñadas por
@@ -57,4 +43,21 @@ quiz:
       - option: Antoni Gaudí
       - option: Salvador Dalí
     correctAnswer: 2
+faq:
+  - question: ¿Quién fue Alphonse Mucha y por qué definen su estilo al Art Nouveau
+      gráfico?
+    answer: Fue un cartelista y pintor checo en París. Sus pósteres publicitarios de
+      teatro y productos (famosos por retratar muchachas hermosas rodeadas de
+      intrincados motivos florales, marcos circulares y ropajes fluidos que
+      parecen humo o enredaderas) se volvieron tan ubicuos, que al inicio al Art
+      Nouveau se le llamaba simplemente 'El estilo Mucha'.
+  - question: ¿Por qué el Art Nouveau murió tan abruptamente?
+    answer: Por dos razones. Primero, porque de realizar (construir muebles o
+      arquitectura llena de curvas orgánicas irregulares y asimétricas) era
+      carísimo y requería de gran virtuosismo de artesanos y diseñadores.
+      Segundo, tras la sangrienta Primera Guerra Mundial, toda la sociedad entró
+      en un modo de austeridad matemática y funcional. Las curvas femeninas del
+      Art Nouveau pasaron a verse como decoración frívola y burguesa para
+      decantar en la simetría robusta e industrial del Art Deco.
+id: "10"
 ---

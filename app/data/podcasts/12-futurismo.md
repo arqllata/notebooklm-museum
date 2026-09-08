@@ -1,5 +1,5 @@
 ---
-date: 2026-09-05T19:13:56.000-06:00
+date: 2026-09-07T22:45:58.000-06:00
 title: 12. Futurismo
 description: Futurismo, la estética de la máquina y la velocidad
 category: Vanguardias
@@ -19,6 +19,7 @@ takeaways:
     tradicional, creando textos visualmente explosivos.
 gallery:
   - image: /uploads/images/1770700589536-futurismo.PNG
+infographicUrl: /uploads/cms_images/vargas-de-la-llata-francisco.-notebooklm.-futurismo-.png
 classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/capitulo-12-futurismo.docx
 quiz:
   - question: ¿Qué elemento era glorificado de manera central por el Futurismo?

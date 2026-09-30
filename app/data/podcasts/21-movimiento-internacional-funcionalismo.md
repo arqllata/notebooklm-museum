@@ -1,5 +1,5 @@
 ---
-date: 2026-09-05T19:13:56.000-06:00
+date: 2026-09-29T22:57:31.000-06:00
 title: 21. Movimiento Internacional / Funcionalismo
 description: El Movimiento Internacional o Funcionalismo fue una corriente
   arquitectónica y de diseño de entreguerras que impulsó la máxima
@@ -9,8 +9,8 @@ description: El Movimiento Internacional o Funcionalismo fue una corriente
   urgentes necesidades sociales de vivienda digna y estandarizada en la Europa
   devastada.
 category: Modernismo
-imageUrl: /uploads/cms_images/portada-constructivismo.png
-audioUrl: /uploads/audio/placeholder.mp3
+imageUrl: /uploads/cms_images/seagram-building.jpg
+audioUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/audio/vargas-de-la-llata-francisco-notebooklm.-racionalismo.mp3
 takeaways:
   - "La forma sigue a la función: Estableció que la apariencia estética de un
     edificio u objeto debe estar dictada estrictamente por su utilidad
@@ -24,6 +24,7 @@ takeaways:
   - "Planta libre y modularidad: Introdujo conceptos de flexibilidad espacial
     (como las columnas de soporte que liberan los muros) y estandarización de
     componentes."
+infographicUrl: /uploads/cms_images/vargas-de-la-llata-francisco.-racionalismo.png
 classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/capitulo-20-racionalismo.docx
 quiz:
   - question: ¿Cuál es la premisa clave del Funcionalismo?

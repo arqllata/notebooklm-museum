@@ -1,5 +1,5 @@
 ---
-date: 2026-09-05T19:13:56.000-06:00
+date: 2026-09-29T22:40:24.000-06:00
 title: 22. Surrealismo
 description: "El dictado automático de la mente: sueños lúcidos, psicoanálisis y
   el misterio por encima de la vigilia cotidiana."

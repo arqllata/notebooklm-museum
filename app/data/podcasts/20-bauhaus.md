@@ -1,5 +1,5 @@
 ---
-date: 2026-09-05T19:13:56.000-06:00
+date: 2026-09-29T22:40:24.000-06:00
 title: 20. Bauhaus
 description: ESTE PODCAS ANALIZA PROFUNDAMENTE LOS ORIGENES, SUS ACTORES, SU
   FILOSOFIA Y SU METODO DE ENSEÑANZA, LA INFLUENCIA EN SU MOMENTO Y LA
@@ -20,6 +20,7 @@ takeaways:
     emigraran y difundieran el estilo moderno por todo el mundo.
 gallery:
   - image: /uploads/images/1770704193736-bauhaus.PNG
+infographicUrl: /uploads/cms_images/vargas-de-la-llata-francisco.-bauhaus-revolucion-forma-y-funcion.png
 classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/capitulo-19-bauhaus.docx
 quiz:
   - question: ¿Cuál era el principio fundamental de diseño de la Bauhaus?

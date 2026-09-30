@@ -1,5 +1,5 @@
 ---
-date: 2026-09-05T19:13:56.000-06:00
+date: 2026-09-29T22:40:24.000-06:00
 title: 24. Art Deco
 description: Geometric patterns, bold colors, and the celebration of machinery.
   The style that defined the jazz age skyscrapers.

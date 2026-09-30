@@ -1,5 +1,5 @@
 ---
-date: 2026-09-07T22:45:58.000-06:00
+date: 2026-09-29T22:40:24.000-06:00
 title: 14. WWI
 description: "La Primera Guerra Mundial (1914-1918) representó una fractura
   catastrófica que destruyó la ciega confianza del siglo XIX en el progreso

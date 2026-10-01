@@ -1,6 +1,6 @@
 ---
-date: 2026-04-15T18:55:00.000-06:00
-title: "28. Tachismo"
+date: 2026-09-30T19:17:18.000-06:00
+title: 28. Tachismo
 description: El tachismo es un estilo de pintura abstracta francesa (años 40-50)
   caracterizado por el uso espontáneo de manchas ("taches"), goteos y trazos
   gestuales, como parte del informalismo, prioriza la intuición, el automatismo
@@ -24,7 +24,7 @@ gallery:
   - image: /uploads/cms_images/mathieu-george-01.jpg
   - image: /uploads/cms_images/tachismo-capital-del-arte.jpg
 infographicUrl: /uploads/cms_images/vargas-de-la-llata-francisco.-tachismo.png
-classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/unidad-didactica-tachismo.pdf
+classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/capitulo-27-tachismo.docx
 quiz:
   - question: ¿De qué palabra francesa deriva el nombre del movimiento "Tachismo"?
     options:

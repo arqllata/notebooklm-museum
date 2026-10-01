@@ -1,6 +1,6 @@
 ---
-date: 2026-04-16T15:28:00.000-06:00
-title: "29. Espacialismo"
+date: 2026-09-30T19:17:18.000-06:00
+title: 29. Espacialismo
 description: Fundado por el artista ítalo-argentino Lucio Fontana a finales de
   los años 40, el Espacialismo propuso superar la pintura bidimensional
   integrando el tiempo, el espacio y el movimiento. Reconocido por sus famosos
@@ -24,7 +24,7 @@ gallery:
   - image: /uploads/cms_images/fontana-lucio.-concetto-spaziale-1958.jpg
   - image: /uploads/cms_images/fontana-lucio.-concetto-spaziale.webp
 infographicUrl: /uploads/cms_images/vargas-de-la-llata-francisco.-espacialismo.png
-classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/unidad-didactica-espacialismo.pdf
+classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/capitulo-28-espacialismo.docx
 quiz:
   - question: ¿Qué nombre le daba Lucio Fontana a sus series de lienzos cortados?
     options:

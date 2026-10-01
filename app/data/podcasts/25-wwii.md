@@ -1,5 +1,5 @@
 ---
-date: 2026-09-06T09:36:17.000-06:00
+date: 2026-09-30T19:17:18.000-06:00
 title: 25. WWII
 description: La Segunda Guerra Mundial (1939-1945) provocó la dispersión masiva
   de los grandes cerebros del diseño moderno europeo hacia América debido a la
@@ -27,7 +27,7 @@ takeaways:
     y dogmático, en América se fusionó el diseño con curvas amigables, ergonomía
     y un enfoque comercial más libre."
 infographicUrl: /uploads/cms_images/vargas-de-la-llata-francisco.-reconstruccion-del-pensamiento-de-posguerra.png
-classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/wwii.docx
+classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/capitulo-25-wwii.docx
 quiz:
   - question: ¿Qué impacto tuvo el exilio de los maestros de la Bauhaus debido a la
       Segunda Guerra Mundial?

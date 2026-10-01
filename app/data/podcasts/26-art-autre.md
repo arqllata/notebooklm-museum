@@ -1,6 +1,6 @@
 ---
-date: 2026-04-08T22:49:00.000-06:00
-title: "26. Art Autre"
+date: 2026-09-30T19:17:18.000-06:00
+title: 26. Art Autre
 description: El arte de la materia, la mancha y la herida existencial de la
   posguerra europea.
 category: Post Guerras
@@ -29,7 +29,7 @@ gallery:
   - image: /uploads/millares-manolo.-arpillera.jpg
   - image: /uploads/tapies-antoni.-01-.jpg
 infographicUrl: /uploads/vargas-de-la-llata-francisco-notebooklm.-guia-visual-del-art-autre.png
-classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/unidad-tematica-art-autre.pdf
+classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/capitulo-29-art-autre.docx
 quiz:
   - question: ¿Qué acción subversiva realizaba el artista Lucio Fontana (fundador
       del Espacialismo) a sus lienzos pintados en un solo color para crear arte

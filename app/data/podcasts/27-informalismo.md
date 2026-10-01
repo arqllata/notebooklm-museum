@@ -1,6 +1,6 @@
 ---
-date: 2026-04-16T17:42:00.000-06:00
-title: "27. Informalismo"
+date: 2026-09-30T19:17:18.000-06:00
+title: 27. Informalismo
 description: El Informalismo abarca una serie de tendencias de pintura abstracta
   surgidas en Europa paralela al Expresionismo Abstracto americano tras la
   Segunda Guerra Mundial. Se caracteriza por un rechazo total a la estructura y
@@ -25,7 +25,7 @@ gallery:
   - image: /uploads/cms_images/dubuffet-jean.-the-cow-with-the-subtle-nose-1954.png
   - image: /uploads/cms_images/fautier-jean.-otage-943.png
 infographicUrl: /uploads/cms_images/vargas-de-la-llata-francisco-notebooklm.-informalismo-01.png
-classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/unidad-didactica-arte-informal.pdf
+classNotesUrl: https://raw.githubusercontent.com/arqllata/notebooklm-museum/main/media/documents/capitulo-26-informalismo.docx
 quiz:
   - question: ¿Qué elemento técnico caracteriza principalmente al Informalismo de
       artistas como Antoni Tàpies?
